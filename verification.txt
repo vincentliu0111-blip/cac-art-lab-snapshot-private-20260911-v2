@@ -1,0 +1,13 @@
+M1 验收记录
+PASS N=60: 区间内=5; 引用图片=106; 字段关联/top3/缩略图=通过; 复现=通过
+Python=3.9.6
+SHA256=6efdccdddc86cb4ddfc1e154c2785aebe2d61d076f773ede1497df3b0e61e859
+PASS N=40: 区间内=3; 引用图片=75; 字段关联/top3/缩略图=通过; 复现=通过
+Python=3.9.6
+SHA256=fb423ff18fcfedf46c937f7e6991e6d35ac741debd8b2c145ad22c0646926cce
+PASS N=60: 区间内=5; 引用图片=106; 字段关联/top3/缩略图=通过; 复现=通过
+Python=3.9.6
+SHA256=6efdccdddc86cb4ddfc1e154c2785aebe2d61d076f773ede1497df3b0e61e859
+PASS N=60: 区间内=5; 引用图片=106; 字段关联/top3/缩略图=通过; 复现=通过
+Python=3.9.6
+SHA256=6efdccdddc86cb4ddfc1e154c2785aebe2d61d076f773ede1497df3b0e61e859

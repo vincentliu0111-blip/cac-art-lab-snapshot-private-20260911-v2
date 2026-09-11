@@ -1,0 +1,1622 @@
+[
+  {
+    "pair_id": "90751606854d05ed",
+    "img_A": "76938.jpg",
+    "img_B": "436940.jpg",
+    "q_A": 0.0,
+    "model_q_A": 0.1365,
+    "top_features": [
+      {
+        "name": "N_mean_b",
+        "group": "N",
+        "delta": 0.26655204680110517,
+        "scaled_delta": 0.3338212053871171
+      },
+      {
+        "name": "N_brightness_mean",
+        "group": "N",
+        "delta": 0.25810431920889015,
+        "scaled_delta": 0.32285967744876326
+      },
+      {
+        "name": "N_mean_r",
+        "group": "N",
+        "delta": 0.26218321735365996,
+        "scaled_delta": 0.3205134798097668
+      }
+    ]
+  },
+  {
+    "pair_id": "3b15503ebfa3c029",
+    "img_A": "51590.jpg",
+    "img_B": "75061.jpg",
+    "q_A": 0.7421,
+    "model_q_A": 0.5415,
+    "top_features": [
+      {
+        "name": "O_balance_tb",
+        "group": "O",
+        "delta": -0.21150894295334577,
+        "scaled_delta": -0.29922403697101785
+      },
+      {
+        "name": "N_mean_r",
+        "group": "N",
+        "delta": -0.2231407661660601,
+        "scaled_delta": -0.27278490276068396
+      },
+      {
+        "name": "N_brightness_mean",
+        "group": "N",
+        "delta": -0.1892915332903189,
+        "scaled_delta": -0.23678256748749965
+      }
+    ]
+  },
+  {
+    "pair_id": "ad95dd8451027773",
+    "img_A": "438380.jpg",
+    "img_B": "436560.jpg",
+    "q_A": 0.5863,
+    "model_q_A": 0.521,
+    "top_features": [
+      {
+        "name": "O_balance_lr",
+        "group": "O",
+        "delta": -0.07960458497194589,
+        "scaled_delta": -0.18378282973415377
+      },
+      {
+        "name": "O_hue_dominant_share",
+        "group": "O",
+        "delta": 0.14568980240137858,
+        "scaled_delta": 0.14953814108969674
+      },
+      {
+        "name": "O_rule_of_thirds",
+        "group": "O",
+        "delta": -0.027561593747891258,
+        "scaled_delta": -0.14682517271577644
+      }
+    ]
+  },
+  {
+    "pair_id": "0e1a4ef1eb696db6",
+    "img_A": "51779.jpg",
+    "img_B": "829405.jpg",
+    "q_A": 0.8442,
+    "model_q_A": 0.7904,
+    "top_features": [
+      {
+        "name": "O_hue_dominant_share",
+        "group": "O",
+        "delta": 0.4387698752871742,
+        "scaled_delta": 0.450359808546087
+      },
+      {
+        "name": "R_hue_entropy",
+        "group": "R",
+        "delta": -0.2829791921173342,
+        "scaled_delta": -0.3188926513402831
+      },
+      {
+        "name": "R_high_freq_ratio",
+        "group": "R",
+        "delta": 0.36189136720805715,
+        "scaled_delta": 0.312294089464318
+      }
+    ]
+  },
+  {
+    "pair_id": "1a87a1545fe56394",
+    "img_A": "54594.jpg",
+    "img_B": "74685.jpg",
+    "q_A": 0.8882,
+    "model_q_A": 0.9055,
+    "top_features": [
+      {
+        "name": "N_bytes_per_pixel",
+        "group": "N",
+        "delta": -0.5086944998599421,
+        "scaled_delta": -0.31177450506981097
+      },
+      {
+        "name": "R_local_entropy",
+        "group": "R",
+        "delta": 0.12069932711137743,
+        "scaled_delta": 0.2394650172856017
+      },
+      {
+        "name": "N_bright_ratio",
+        "group": "N",
+        "delta": -0.1656457013248848,
+        "scaled_delta": -0.18061094915130108
+      }
+    ]
+  },
+  {
+    "pair_id": "efb2181ebe592045",
+    "img_A": "75166.jpg",
+    "img_B": "435570.jpg",
+    "q_A": 0.3851,
+    "model_q_A": 0.6619,
+    "top_features": [
+      {
+        "name": "O_hue_dominant_share",
+        "group": "O",
+        "delta": 0.5278315472620208,
+        "scaled_delta": 0.5417740094711949
+      },
+      {
+        "name": "R_hue_entropy",
+        "group": "R",
+        "delta": -0.4676822611091731,
+        "scaled_delta": -0.5270367588302513
+      },
+      {
+        "name": "O_balance_tb",
+        "group": "O",
+        "delta": 0.35983942596005725,
+        "scaled_delta": 0.5090688090708875
+      }
+    ]
+  },
+  {
+    "pair_id": "226c72f155674329",
+    "img_A": "437849.jpg",
+    "img_B": "854908.jpg",
+    "q_A": 0.1558,
+    "model_q_A": 0.6679,
+    "top_features": [
+      {
+        "name": "N_dark_ratio",
+        "group": "N",
+        "delta": 0.3527295324028398,
+        "scaled_delta": 0.3735259185998552
+      },
+      {
+        "name": "R_high_freq_ratio",
+        "group": "R",
+        "delta": -0.3505370281863709,
+        "scaled_delta": -0.30249586467215794
+      },
+      {
+        "name": "R_saturation_mean",
+        "group": "R",
+        "delta": 0.15962539161329853,
+        "scaled_delta": 0.24497818111104902
+      }
+    ]
+  },
+  {
+    "pair_id": "a1c8320acb391f3e",
+    "img_A": "828241.jpg",
+    "img_B": "437589.jpg",
+    "q_A": 0.0,
+    "model_q_A": 0.3608,
+    "top_features": [
+      {
+        "name": "O_balance_tb",
+        "group": "O",
+        "delta": 0.3923114167542018,
+        "scaled_delta": 0.5550072929866852
+      },
+      {
+        "name": "N_dark_ratio",
+        "group": "N",
+        "delta": 0.4443139898964807,
+        "scaled_delta": 0.4705100536728225
+      },
+      {
+        "name": "O_symmetry_tb",
+        "group": "O",
+        "delta": 0.17980968261118568,
+        "scaled_delta": 0.4258975807154674
+      }
+    ]
+  },
+  {
+    "pair_id": "14798b56bbdae2c9",
+    "img_A": "438415.jpg",
+    "img_B": "45072.jpg",
+    "q_A": 0.0,
+    "model_q_A": 0.128,
+    "top_features": [
+      {
+        "name": "N_dark_ratio",
+        "group": "N",
+        "delta": 0.5974994841582159,
+        "scaled_delta": 0.6327271271072634
+      },
+      {
+        "name": "R_brightness_std",
+        "group": "R",
+        "delta": 0.1465509640353827,
+        "scaled_delta": 0.47468637692924515
+      },
+      {
+        "name": "N_mean_r",
+        "group": "N",
+        "delta": -0.35322376234162245,
+        "scaled_delta": -0.43180863505423406
+      }
+    ]
+  },
+  {
+    "pair_id": "e80243c160de4d4d",
+    "img_A": "53576.jpg",
+    "img_B": "49067.jpg",
+    "q_A": 0.0,
+    "model_q_A": 0.0852,
+    "top_features": [
+      {
+        "name": "N_mean_r",
+        "group": "N",
+        "delta": -0.3875379870823973,
+        "scaled_delta": -0.4737570545207808
+      },
+      {
+        "name": "N_brightness_mean",
+        "group": "N",
+        "delta": -0.36436021938365115,
+        "scaled_delta": -0.45577394158274254
+      },
+      {
+        "name": "N_mean_g",
+        "group": "N",
+        "delta": -0.36504076150926085,
+        "scaled_delta": -0.45381585961909915
+      }
+    ]
+  },
+  {
+    "pair_id": "59abbac189573a77",
+    "img_A": "670889.jpg",
+    "img_B": "45738.jpg",
+    "q_A": 0.0,
+    "model_q_A": 0.3825,
+    "top_features": [
+      {
+        "name": "N_dark_ratio",
+        "group": "N",
+        "delta": 0.3246535253649935,
+        "scaled_delta": 0.3437945937289607
+      },
+      {
+        "name": "N_mean_r",
+        "group": "N",
+        "delta": -0.2755939888258454,
+        "scaled_delta": -0.3369078664332465
+      },
+      {
+        "name": "R_hue_entropy",
+        "group": "R",
+        "delta": 0.29738000350605553,
+        "scaled_delta": 0.33512109870717127
+      }
+    ]
+  },
+  {
+    "pair_id": "0b0359d103ebe94d",
+    "img_A": "436950.jpg",
+    "img_B": "435869.jpg",
+    "q_A": 0.3851,
+    "model_q_A": 0.5619,
+    "top_features": [
+      {
+        "name": "O_balance_lr",
+        "group": "O",
+        "delta": 0.20500765724483883,
+        "scaled_delta": 0.473300468545926
+      },
+      {
+        "name": "N_dark_ratio",
+        "group": "N",
+        "delta": 0.379811684772438,
+        "scaled_delta": 0.4022047926725893
+      },
+      {
+        "name": "O_centrality",
+        "group": "O",
+        "delta": 0.6965443503222881,
+        "scaled_delta": 0.3702764637652462
+      }
+    ]
+  },
+  {
+    "pair_id": "1fc838d19358ac60",
+    "img_A": "51728.jpg",
+    "img_B": "51497.jpg",
+    "q_A": 0.0,
+    "model_q_A": 0.1134,
+    "top_features": [
+      {
+        "name": "N_contrast_p95_p05",
+        "group": "N",
+        "delta": -0.28017745098039204,
+        "scaled_delta": -0.3545969138835533
+      },
+      {
+        "name": "R_high_freq_ratio",
+        "group": "R",
+        "delta": 0.321812536850231,
+        "scaled_delta": 0.27770807010178283
+      },
+      {
+        "name": "R_local_entropy",
+        "group": "R",
+        "delta": -0.1311468708833694,
+        "scaled_delta": -0.2601927322598827
+      }
+    ]
+  },
+  {
+    "pair_id": "bffa83268634386f",
+    "img_A": "44857.jpg",
+    "img_B": "45815.jpg",
+    "q_A": 0.0,
+    "model_q_A": 0.2768,
+    "top_features": [
+      {
+        "name": "O_balance_tb",
+        "group": "O",
+        "delta": 0.3360825566520469,
+        "scaled_delta": 0.47545970374949337
+      },
+      {
+        "name": "N_bytes_per_pixel",
+        "group": "N",
+        "delta": -0.698378997016889,
+        "scaled_delta": -0.4280305098758501
+      },
+      {
+        "name": "N_contrast_p95_p05",
+        "group": "N",
+        "delta": 0.33004999999999995,
+        "scaled_delta": 0.4177163830199073
+      }
+    ]
+  },
+  {
+    "pair_id": "bba45113baa7131a",
+    "img_A": "49045.jpg",
+    "img_B": "435810.jpg",
+    "q_A": 0.1857,
+    "model_q_A": 0.4397,
+    "top_features": [
+      {
+        "name": "N_dark_ratio",
+        "group": "N",
+        "delta": -0.46011702740778687,
+        "scaled_delta": -0.48724481376752643
+      },
+      {
+        "name": "N_mean_r",
+        "group": "N",
+        "delta": 0.3592703237022129,
+        "scaled_delta": 0.43920042939609666
+      },
+      {
+        "name": "N_brightness_mean",
+        "group": "N",
+        "delta": 0.3339282756466029,
+        "scaled_delta": 0.4177069787004573
+      }
+    ]
+  },
+  {
+    "pair_id": "1947d66a764261a4",
+    "img_A": "739501.jpg",
+    "img_B": "435862.jpg",
+    "q_A": 0.4969,
+    "model_q_A": 0.4355,
+    "top_features": [
+      {
+        "name": "N_bright_ratio",
+        "group": "N",
+        "delta": 0.40230165093519676,
+        "scaled_delta": 0.4386475618708111
+      },
+      {
+        "name": "R_local_entropy",
+        "group": "R",
+        "delta": -0.21064907684822876,
+        "scaled_delta": -0.417923496641451
+      },
+      {
+        "name": "N_mean_b",
+        "group": "N",
+        "delta": 0.33046447581732386,
+        "scaled_delta": 0.4138630746935366
+      }
+    ]
+  },
+  {
+    "pair_id": "69b180f2494c2042",
+    "img_A": "438615.jpg",
+    "img_B": "436934.jpg",
+    "q_A": 0.1558,
+    "model_q_A": 0.478,
+    "top_features": [
+      {
+        "name": "N_dark_ratio",
+        "group": "N",
+        "delta": -0.553665267467633,
+        "scaled_delta": -0.5863085129812543
+      },
+      {
+        "name": "R_saturation_mean",
+        "group": "R",
+        "delta": -0.24418319215879436,
+        "scaled_delta": -0.3747496163885219
+      },
+      {
+        "name": "O_balance_tb",
+        "group": "O",
+        "delta": -0.24820411448072055,
+        "scaled_delta": -0.35113710130034503
+      }
+    ]
+  },
+  {
+    "pair_id": "219997aba0c47e59",
+    "img_A": "437270.jpg",
+    "img_B": "40521.jpg",
+    "q_A": 0.2012,
+    "model_q_A": 0.4777,
+    "top_features": [
+      {
+        "name": "N_grayscale_ratio",
+        "group": "N",
+        "delta": 0.9943033854166666,
+        "scaled_delta": 0.9943033854166666
+      },
+      {
+        "name": "R_color_count",
+        "group": "R",
+        "delta": -0.2890625,
+        "scaled_delta": -0.6519823788546255
+      },
+      {
+        "name": "R_hue_entropy",
+        "group": "R",
+        "delta": -0.5629105396719055,
+        "scaled_delta": -0.6343506500256477
+      }
+    ]
+  },
+  {
+    "pair_id": "f7b03d5d3c8ca4d6",
+    "img_A": "64372.jpg",
+    "img_B": "435942.jpg",
+    "q_A": 1.0,
+    "model_q_A": 0.9444,
+    "top_features": [
+      {
+        "name": "N_grayscale_ratio",
+        "group": "N",
+        "delta": -0.9403432892091153,
+        "scaled_delta": -0.9403432892091153
+      },
+      {
+        "name": "O_hue_dominant_share",
+        "group": "O",
+        "delta": 0.6875996653389873,
+        "scaled_delta": 0.7057623393942966
+      },
+      {
+        "name": "N_bright_ratio",
+        "group": "N",
+        "delta": -0.4671005490733589,
+        "scaled_delta": -0.5093007113524134
+      }
+    ]
+  },
+  {
+    "pair_id": "bd3e1de6e175c05c",
+    "img_A": "441104.jpg",
+    "img_B": "438389.jpg",
+    "q_A": 0.3473,
+    "model_q_A": 0.365,
+    "top_features": [
+      {
+        "name": "N_dark_ratio",
+        "group": "N",
+        "delta": -0.7038429588267185,
+        "scaled_delta": -0.7453404481185809
+      },
+      {
+        "name": "O_balance_tb",
+        "group": "O",
+        "delta": 0.2843656593863664,
+        "scaled_delta": 0.40229523815587664
+      },
+      {
+        "name": "N_contrast_p95_p05",
+        "group": "N",
+        "delta": -0.25404352941176483,
+        "scaled_delta": -0.3215214186804844
+      }
+    ]
+  },
+  {
+    "pair_id": "147b8450d622e9c7",
+    "img_A": "439631.jpg",
+    "img_B": "438510.jpg",
+    "q_A": 0.6981,
+    "model_q_A": 0.3327,
+    "top_features": [
+      {
+        "name": "N_bytes_per_pixel",
+        "group": "N",
+        "delta": 1.0444484938652636,
+        "scaled_delta": 0.6401335425002784
+      },
+      {
+        "name": "N_mean_r",
+        "group": "N",
+        "delta": -0.28548947115144,
+        "scaled_delta": -0.3490048858633427
+      },
+      {
+        "name": "N_brightness_mean",
+        "group": "N",
+        "delta": -0.24835860449712555,
+        "scaled_delta": -0.3106688767756391
+      }
+    ]
+  },
+  {
+    "pair_id": "fc3b7384ab0d20a6",
+    "img_A": "436034.jpg",
+    "img_B": "44852.jpg",
+    "q_A": 0.7025,
+    "model_q_A": 0.4577,
+    "top_features": [
+      {
+        "name": "O_hue_dominant_share",
+        "group": "O",
+        "delta": -0.6239580327422326,
+        "scaled_delta": -0.6404396381649201
+      },
+      {
+        "name": "N_mean_r",
+        "group": "N",
+        "delta": -0.40333618155574774,
+        "scaled_delta": -0.4930700156495428
+      },
+      {
+        "name": "R_hue_entropy",
+        "group": "R",
+        "delta": 0.4223457562281524,
+        "scaled_delta": 0.4759465068020535
+      }
+    ]
+  },
+  {
+    "pair_id": "30f0c94c31a00b9e",
+    "img_A": "57342.jpg",
+    "img_B": "437270.jpg",
+    "q_A": 0.6981,
+    "model_q_A": 0.7552,
+    "top_features": [
+      {
+        "name": "N_grayscale_ratio",
+        "group": "N",
+        "delta": -0.998046875,
+        "scaled_delta": -0.998046875
+      },
+      {
+        "name": "O_hue_dominant_share",
+        "group": "O",
+        "delta": 0.7513053864967864,
+        "scaled_delta": 0.7711508220587887
+      },
+      {
+        "name": "R_saturation_mean",
+        "group": "R",
+        "delta": 0.41156103877069555,
+        "scaled_delta": 0.6316255432498449
+      }
+    ]
+  },
+  {
+    "pair_id": "5e856de0a739b5d2",
+    "img_A": "437794.jpg",
+    "img_B": "436666.jpg",
+    "q_A": 0.7325,
+    "model_q_A": 0.9525,
+    "top_features": [
+      {
+        "name": "R_local_entropy",
+        "group": "R",
+        "delta": 0.3464484956076258,
+        "scaled_delta": 0.6873467895367462
+      },
+      {
+        "name": "N_grayscale_ratio",
+        "group": "N",
+        "delta": -0.6447751747623784,
+        "scaled_delta": -0.6447751747623784
+      },
+      {
+        "name": "O_balance_tb",
+        "group": "O",
+        "delta": -0.32831662844459175,
+        "scaled_delta": -0.4644731593669497
+      }
+    ]
+  },
+  {
+    "pair_id": "1548006dfb6eb60a",
+    "img_A": "440900.jpg",
+    "img_B": "682119.jpg",
+    "q_A": 0.1461,
+    "model_q_A": 0.8183,
+    "top_features": [
+      {
+        "name": "N_bytes_per_pixel",
+        "group": "N",
+        "delta": -1.5263397387518143,
+        "scaled_delta": -0.9354805620048045
+      },
+      {
+        "name": "O_balance_lr",
+        "group": "O",
+        "delta": -0.26884758652722784,
+        "scaled_delta": -0.6206874922667397
+      },
+      {
+        "name": "N_dark_ratio",
+        "group": "N",
+        "delta": 0.562653432354882,
+        "scaled_delta": 0.595826606130887
+      }
+    ]
+  },
+  {
+    "pair_id": "fed4751a451a853c",
+    "img_A": "45676.jpg",
+    "img_B": "41154.jpg",
+    "q_A": 0.0,
+    "model_q_A": 0.3243,
+    "top_features": [
+      {
+        "name": "N_bytes_per_pixel",
+        "group": "N",
+        "delta": 1.14803922460855,
+        "scaled_delta": 0.7036234147442292
+      },
+      {
+        "name": "N_mean_r",
+        "group": "N",
+        "delta": -0.33507973553159265,
+        "scaled_delta": -0.409627943134507
+      },
+      {
+        "name": "N_brightness_mean",
+        "group": "N",
+        "delta": -0.3174153767266894,
+        "scaled_delta": -0.3970511863628153
+      }
+    ]
+  },
+  {
+    "pair_id": "ae8c845d374f3415",
+    "img_A": "670926.jpg",
+    "img_B": "55384.jpg",
+    "q_A": 0.4574,
+    "model_q_A": 0.6557,
+    "top_features": [
+      {
+        "name": "N_grayscale_ratio",
+        "group": "N",
+        "delta": -0.9959036227876106,
+        "scaled_delta": -0.9959036227876106
+      },
+      {
+        "name": "N_bright_ratio",
+        "group": "N",
+        "delta": -0.8196792456074121,
+        "scaled_delta": -0.8937331024269495
+      },
+      {
+        "name": "O_hue_dominant_share",
+        "group": "O",
+        "delta": 0.648433884333604,
+        "scaled_delta": 0.6655620097258163
+      }
+    ]
+  },
+  {
+    "pair_id": "0e3e648d3f0dd3ba",
+    "img_A": "437484.jpg",
+    "img_B": "839045.jpg",
+    "q_A": 0.0,
+    "model_q_A": 0.0385,
+    "top_features": [
+      {
+        "name": "N_grayscale_ratio",
+        "group": "N",
+        "delta": 0.9336734693877551,
+        "scaled_delta": 0.9336734693877551
+      },
+      {
+        "name": "R_hue_entropy",
+        "group": "R",
+        "delta": -0.5553969765345663,
+        "scaled_delta": -0.625883525457403
+      },
+      {
+        "name": "R_brightness_std",
+        "group": "R",
+        "delta": 0.192248681289447,
+        "scaled_delta": 0.622703716699399
+      }
+    ]
+  },
+  {
+    "pair_id": "5d99546620a4150e",
+    "img_A": "437914.jpg",
+    "img_B": "436426.jpg",
+    "q_A": 1.0,
+    "model_q_A": 0.7766,
+    "top_features": [
+      {
+        "name": "N_grayscale_ratio",
+        "group": "N",
+        "delta": -0.8380734517694064,
+        "scaled_delta": -0.8380734517694064
+      },
+      {
+        "name": "R_hue_entropy",
+        "group": "R",
+        "delta": 0.565636176865855,
+        "scaled_delta": 0.6374222033256155
+      },
+      {
+        "name": "O_symmetry_lr",
+        "group": "O",
+        "delta": 0.18586274639091527,
+        "scaled_delta": 0.6047633305034913
+      }
+    ]
+  },
+  {
+    "pair_id": "0dbc30e05de0acb8",
+    "img_A": "437837.jpg",
+    "img_B": "437269.jpg",
+    "q_A": 0.2012,
+    "model_q_A": 0.7603,
+    "top_features": [
+      {
+        "name": "R_edge_density",
+        "group": "R",
+        "delta": 0.23425235082808585,
+        "scaled_delta": 0.3154533809822408
+      },
+      {
+        "name": "R_local_entropy",
+        "group": "R",
+        "delta": 0.1465639646990906,
+        "scaled_delta": 0.2907799337416996
+      },
+      {
+        "name": "N_mean_r",
+        "group": "N",
+        "delta": 0.22506570749203425,
+        "scaled_delta": 0.27513810312585213
+      }
+    ]
+  },
+  {
+    "pair_id": "f911a8c2546fd496",
+    "img_A": "436337.jpg",
+    "img_B": "41193.jpg",
+    "q_A": 0.0,
+    "model_q_A": 0.3873,
+    "top_features": [
+      {
+        "name": "N_dark_ratio",
+        "group": "N",
+        "delta": 0.8493795125716931,
+        "scaled_delta": 0.8994576113658145
+      },
+      {
+        "name": "O_balance_tb",
+        "group": "O",
+        "delta": -0.485366336850246,
+        "scaled_delta": -0.6866531159119866
+      },
+      {
+        "name": "N_mean_r",
+        "group": "N",
+        "delta": -0.4059167937373206,
+        "scaled_delta": -0.4962247598727006
+      }
+    ]
+  },
+  {
+    "pair_id": "3484d3ece2504d70",
+    "img_A": "435684.jpg",
+    "img_B": "437837.jpg",
+    "q_A": 0.0,
+    "model_q_A": 0.3436,
+    "top_features": [
+      {
+        "name": "O_balance_tb",
+        "group": "O",
+        "delta": -0.3491172094003334,
+        "scaled_delta": -0.49389997091454646
+      },
+      {
+        "name": "N_mean_r",
+        "group": "N",
+        "delta": -0.2938352317772721,
+        "scaled_delta": -0.3592074030451979
+      },
+      {
+        "name": "N_dark_ratio",
+        "group": "N",
+        "delta": 0.3362794340274716,
+        "scaled_delta": 0.35610594793604383
+      }
+    ]
+  },
+  {
+    "pair_id": "7f8fe60db569e56f",
+    "img_A": "51590.jpg",
+    "img_B": "75056.jpg",
+    "q_A": 0.8882,
+    "model_q_A": 0.6073,
+    "top_features": [
+      {
+        "name": "O_rule_of_thirds",
+        "group": "O",
+        "delta": -0.07354383959858696,
+        "scaled_delta": -0.3917802087214224
+      },
+      {
+        "name": "O_balance_tb",
+        "group": "O",
+        "delta": -0.21901305479545108,
+        "scaled_delta": -0.309840186850657
+      },
+      {
+        "name": "R_high_freq_ratio",
+        "group": "R",
+        "delta": -0.35789585390873774,
+        "scaled_delta": -0.308846161989894
+      }
+    ]
+  },
+  {
+    "pair_id": "bba99b5c36fa785f",
+    "img_A": "670954.jpg",
+    "img_B": "437282.jpg",
+    "q_A": 0.8882,
+    "model_q_A": 0.9066,
+    "top_features": [
+      {
+        "name": "N_dark_ratio",
+        "group": "N",
+        "delta": -0.6526469155605865,
+        "scaled_delta": -0.6911259655392766
+      },
+      {
+        "name": "R_color_count",
+        "group": "R",
+        "delta": 0.244140625,
+        "scaled_delta": 0.5506607929515418
+      },
+      {
+        "name": "O_balance_lr",
+        "group": "O",
+        "delta": 0.23566820942763755,
+        "scaled_delta": 0.5440863792237126
+      }
+    ]
+  },
+  {
+    "pair_id": "36cc5487178d030e",
+    "img_A": "39611.jpg",
+    "img_B": "435862.jpg",
+    "q_A": 0.0,
+    "model_q_A": 0.215,
+    "top_features": [
+      {
+        "name": "O_rule_of_thirds",
+        "group": "O",
+        "delta": 0.10607939506815922,
+        "scaled_delta": 0.5651024989677608
+      },
+      {
+        "name": "O_balance_tb",
+        "group": "O",
+        "delta": 0.3891551216758772,
+        "scaled_delta": 0.5505420474891634
+      },
+      {
+        "name": "N_bytes_per_pixel",
+        "group": "N",
+        "delta": 0.6132956926922046,
+        "scaled_delta": 0.37588368087959373
+      }
+    ]
+  },
+  {
+    "pair_id": "f0d25a5a0ad6f48c",
+    "img_A": "440727.jpg",
+    "img_B": "437939.jpg",
+    "q_A": 0.6585,
+    "model_q_A": 0.7321,
+    "top_features": [
+      {
+        "name": "N_dark_ratio",
+        "group": "N",
+        "delta": -0.647538143224266,
+        "scaled_delta": -0.6857159879089877
+      },
+      {
+        "name": "O_balance_tb",
+        "group": "O",
+        "delta": -0.482068513569079,
+        "scaled_delta": -0.6819876489032207
+      },
+      {
+        "name": "O_symmetry_tb",
+        "group": "O",
+        "delta": -0.24927577221055408,
+        "scaled_delta": -0.5904351021241974
+      }
+    ]
+  },
+  {
+    "pair_id": "2f44ad071edae1cc",
+    "img_A": "51752.jpg",
+    "img_B": "51497.jpg",
+    "q_A": 0.0,
+    "model_q_A": 0.1296,
+    "top_features": [
+      {
+        "name": "O_balance_lr",
+        "group": "O",
+        "delta": 0.3783385975043495,
+        "scaled_delta": 0.873469010252422
+      },
+      {
+        "name": "N_contrast_p95_p05",
+        "group": "N",
+        "delta": -0.3333725490196077,
+        "scaled_delta": -0.4219214524302297
+      },
+      {
+        "name": "R_brightness_std",
+        "group": "R",
+        "delta": -0.07601210698933278,
+        "scaled_delta": -0.24620726248387592
+      }
+    ]
+  },
+  {
+    "pair_id": "fd3bd0bf2c6c8bbf",
+    "img_A": "679085.jpg",
+    "img_B": "44952.jpg",
+    "q_A": 0.0,
+    "model_q_A": 0.4597,
+    "top_features": [
+      {
+        "name": "R_color_count",
+        "group": "R",
+        "delta": 0.228515625,
+        "scaled_delta": 0.5154185022026432
+      },
+      {
+        "name": "N_mean_b",
+        "group": "N",
+        "delta": 0.3951946069437339,
+        "scaled_delta": 0.49492900780793486
+      },
+      {
+        "name": "N_mean_g",
+        "group": "N",
+        "delta": 0.37764034337328717,
+        "scaled_delta": 0.46947956262811025
+      }
+    ]
+  },
+  {
+    "pair_id": "869f268ae43590f2",
+    "img_A": "37986.jpg",
+    "img_B": "435814.jpg",
+    "q_A": 0.0,
+    "model_q_A": 0.1347,
+    "top_features": [
+      {
+        "name": "N_dark_ratio",
+        "group": "N",
+        "delta": -0.5793354345099628,
+        "scaled_delta": -0.6134921532616131
+      },
+      {
+        "name": "N_mean_r",
+        "group": "N",
+        "delta": 0.39612591391041274,
+        "scaled_delta": 0.4842556148015709
+      },
+      {
+        "name": "O_balance_tb",
+        "group": "O",
+        "delta": 0.3096775036716197,
+        "scaled_delta": 0.4381041837468247
+      }
+    ]
+  },
+  {
+    "pair_id": "fa0cd5fd5bde3044",
+    "img_A": "841644.jpg",
+    "img_B": "737796.jpg",
+    "q_A": 0.0,
+    "model_q_A": 0.4079,
+    "top_features": [
+      {
+        "name": "R_texture_roughness",
+        "group": "R",
+        "delta": -0.018479439883534097,
+        "scaled_delta": -0.3184458485557639
+      },
+      {
+        "name": "N_bright_ratio",
+        "group": "N",
+        "delta": -0.277327934601022,
+        "scaled_delta": -0.3023831049875593
+      },
+      {
+        "name": "O_balance_tb",
+        "group": "O",
+        "delta": 0.20981875245676107,
+        "scaled_delta": 0.2968329058132697
+      }
+    ]
+  },
+  {
+    "pair_id": "484149b2a55cb165",
+    "img_A": "435659.jpg",
+    "img_B": "437673.jpg",
+    "q_A": 0.8882,
+    "model_q_A": 0.5654,
+    "top_features": [
+      {
+        "name": "R_saturation_mean",
+        "group": "R",
+        "delta": 0.2959639441801769,
+        "scaled_delta": 0.45421789094405796
+      },
+      {
+        "name": "N_dark_ratio",
+        "group": "N",
+        "delta": 0.2051107767566842,
+        "scaled_delta": 0.21720379005654672
+      },
+      {
+        "name": "N_mean_b",
+        "group": "N",
+        "delta": -0.15944557472855772,
+        "scaled_delta": -0.19968450660311385
+      }
+    ]
+  },
+  {
+    "pair_id": "286ea702eba3e600",
+    "img_A": "75065.jpg",
+    "img_B": "51487.jpg",
+    "q_A": 0.0,
+    "model_q_A": 0.266,
+    "top_features": [
+      {
+        "name": "O_rule_of_thirds",
+        "group": "O",
+        "delta": 0.09320781009559068,
+        "scaled_delta": 0.4965334349285027
+      },
+      {
+        "name": "R_high_freq_ratio",
+        "group": "R",
+        "delta": 0.4614067829307612,
+        "scaled_delta": 0.3981708993494172
+      },
+      {
+        "name": "N_sharpness",
+        "group": "N",
+        "delta": 0.09156403491002711,
+        "scaled_delta": 0.281316670922352
+      }
+    ]
+  },
+  {
+    "pair_id": "4d5483a4bc48160e",
+    "img_A": "436582.jpg",
+    "img_B": "437225.jpg",
+    "q_A": 0.8442,
+    "model_q_A": 0.7863,
+    "top_features": [
+      {
+        "name": "N_bright_ratio",
+        "group": "N",
+        "delta": -0.5303124469416228,
+        "scaled_delta": -0.5782234831498554
+      },
+      {
+        "name": "N_mean_b",
+        "group": "N",
+        "delta": -0.45137287401913023,
+        "scaled_delta": -0.5652848615960756
+      },
+      {
+        "name": "N_brightness_mean",
+        "group": "N",
+        "delta": -0.4499939588626958,
+        "scaled_delta": -0.5628921858325019
+      }
+    ]
+  },
+  {
+    "pair_id": "a430d0cab4ba5f68",
+    "img_A": "436934.jpg",
+    "img_B": "440900.jpg",
+    "q_A": 0.357,
+    "model_q_A": 0.4458,
+    "top_features": [
+      {
+        "name": "R_saturation_mean",
+        "group": "R",
+        "delta": 0.2632980350867219,
+        "scaled_delta": 0.4040852966670783
+      },
+      {
+        "name": "O_balance_tb",
+        "group": "O",
+        "delta": 0.2695891155758078,
+        "scaled_delta": 0.38139069847194595
+      },
+      {
+        "name": "O_symmetry_lr",
+        "group": "O",
+        "delta": 0.09584673253076026,
+        "scaled_delta": 0.3118677104946359
+      }
+    ]
+  },
+  {
+    "pair_id": "236d26ea993c7def",
+    "img_A": "75028.jpg",
+    "img_B": "75078.jpg",
+    "q_A": 0.1857,
+    "model_q_A": 0.4612,
+    "top_features": [
+      {
+        "name": "O_balance_lr",
+        "group": "O",
+        "delta": 0.20026718073593075,
+        "scaled_delta": 0.4623561468413101
+      },
+      {
+        "name": "N_sharpness",
+        "group": "N",
+        "delta": 0.12845906792246237,
+        "scaled_delta": 0.39467108863480194
+      },
+      {
+        "name": "R_edge_density",
+        "group": "R",
+        "delta": 0.2659124729437229,
+        "scaled_delta": 0.3580881401570498
+      }
+    ]
+  },
+  {
+    "pair_id": "f4b768440e5ae600",
+    "img_A": "437750.jpg",
+    "img_B": "435941.jpg",
+    "q_A": 0.3456,
+    "model_q_A": 0.4675,
+    "top_features": [
+      {
+        "name": "R_hue_entropy",
+        "group": "R",
+        "delta": -0.44312449920345004,
+        "scaled_delta": -0.49936232189902885
+      },
+      {
+        "name": "O_hue_dominant_share",
+        "group": "O",
+        "delta": -0.4337595188266123,
+        "scaled_delta": -0.4452171054950868
+      },
+      {
+        "name": "O_balance_tb",
+        "group": "O",
+        "delta": 0.2864092409029593,
+        "scaled_delta": 0.4051863154915955
+      }
+    ]
+  },
+  {
+    "pair_id": "1586a06acdf494c7",
+    "img_A": "436867.jpg",
+    "img_B": "436825.jpg",
+    "q_A": 0.5863,
+    "model_q_A": 0.7114,
+    "top_features": [
+      {
+        "name": "O_balance_lr",
+        "group": "O",
+        "delta": -0.2901443385917697,
+        "scaled_delta": -0.6698552300289244
+      },
+      {
+        "name": "R_saturation_mean",
+        "group": "R",
+        "delta": -0.35111272530976534,
+        "scaled_delta": -0.538855102825406
+      },
+      {
+        "name": "N_dark_ratio",
+        "group": "N",
+        "delta": -0.352287703844692,
+        "scaled_delta": -0.3730580405151324
+      }
+    ]
+  },
+  {
+    "pair_id": "fbfaf2a3f7d42106",
+    "img_A": "437960.jpg",
+    "img_B": "858236.jpg",
+    "q_A": 0.0,
+    "model_q_A": 0.422,
+    "top_features": [
+      {
+        "name": "N_bytes_per_pixel",
+        "group": "N",
+        "delta": -0.6462819065810037,
+        "scaled_delta": -0.3961006490444526
+      },
+      {
+        "name": "R_high_freq_ratio",
+        "group": "R",
+        "delta": -0.3247726745446692,
+        "scaled_delta": -0.2802625203864234
+      },
+      {
+        "name": "R_edge_density",
+        "group": "R",
+        "delta": -0.202447055785124,
+        "scaled_delta": -0.2726231262634604
+      }
+    ]
+  },
+  {
+    "pair_id": "14c23513bfba9af4",
+    "img_A": "436424.jpg",
+    "img_B": "437589.jpg",
+    "q_A": 0.0,
+    "model_q_A": 0.189,
+    "top_features": [
+      {
+        "name": "N_dark_ratio",
+        "group": "N",
+        "delta": 0.5916240455680979,
+        "scaled_delta": 0.6265052817698438
+      },
+      {
+        "name": "R_local_entropy",
+        "group": "R",
+        "delta": -0.2607251422853456,
+        "scaled_delta": -0.5172733949588524
+      },
+      {
+        "name": "N_contrast_p95_p05",
+        "group": "N",
+        "delta": -0.390756862745098,
+        "scaled_delta": -0.4945479271204022
+      }
+    ]
+  },
+  {
+    "pair_id": "5607427d709c220a",
+    "img_A": "436950.jpg",
+    "img_B": "438012.jpg",
+    "q_A": 0.0,
+    "model_q_A": 0.3772,
+    "top_features": [
+      {
+        "name": "N_dark_ratio",
+        "group": "N",
+        "delta": 0.4245893209546435,
+        "scaled_delta": 0.4496224488403374
+      },
+      {
+        "name": "O_centrality",
+        "group": "O",
+        "delta": 0.5666471851350727,
+        "scaled_delta": 0.3012243453231147
+      },
+      {
+        "name": "N_mean_r",
+        "group": "N",
+        "delta": -0.2390132842975527,
+        "scaled_delta": -0.29218872300142024
+      }
+    ]
+  },
+  {
+    "pair_id": "e3e4726fa098a2d0",
+    "img_A": "441769.jpg",
+    "img_B": "38025.jpg",
+    "q_A": 0.5313,
+    "model_q_A": 0.8681,
+    "top_features": [
+      {
+        "name": "O_balance_lr",
+        "group": "O",
+        "delta": -0.37248765700665865,
+        "scaled_delta": -0.8599609641813227
+      },
+      {
+        "name": "N_mean_r",
+        "group": "N",
+        "delta": -0.4796501770729479,
+        "scaled_delta": -0.5863622732863504
+      },
+      {
+        "name": "N_dark_ratio",
+        "group": "N",
+        "delta": 0.5431638260441889,
+        "scaled_delta": 0.5751879228577296
+      }
+    ]
+  },
+  {
+    "pair_id": "ef44707dcab4a2e7",
+    "img_A": "436582.jpg",
+    "img_B": "435927.jpg",
+    "q_A": 1.0,
+    "model_q_A": 0.9408,
+    "top_features": [
+      {
+        "name": "N_grayscale_ratio",
+        "group": "N",
+        "delta": -0.8874706794794189,
+        "scaled_delta": -0.8874706794794189
+      },
+      {
+        "name": "N_mean_b",
+        "group": "N",
+        "delta": -0.4694319385137557,
+        "scaled_delta": -0.5879014528025873
+      },
+      {
+        "name": "R_saturation_mean",
+        "group": "R",
+        "delta": 0.342229042040545,
+        "scaled_delta": 0.5252212533051964
+      }
+    ]
+  },
+  {
+    "pair_id": "bdeb9e26f661a56e",
+    "img_A": "41470.jpg",
+    "img_B": "78155.jpg",
+    "q_A": 0.1857,
+    "model_q_A": 0.4125,
+    "top_features": [
+      {
+        "name": "O_hue_dominant_share",
+        "group": "O",
+        "delta": 0.24435708226965425,
+        "scaled_delta": 0.25081167825347006
+      },
+      {
+        "name": "O_balance_lr",
+        "group": "O",
+        "delta": -0.1012867357020496,
+        "scaled_delta": -0.23384033606127333
+      },
+      {
+        "name": "R_color_count",
+        "group": "R",
+        "delta": -0.103515625,
+        "scaled_delta": -0.23348017621145375
+      }
+    ]
+  },
+  {
+    "pair_id": "8b4d3aba51e3a52a",
+    "img_A": "437196.jpg",
+    "img_B": "41193.jpg",
+    "q_A": 0.0,
+    "model_q_A": 0.1188,
+    "top_features": [
+      {
+        "name": "N_grayscale_ratio",
+        "group": "N",
+        "delta": 0.9996448863636364,
+        "scaled_delta": 0.9996448863636364
+      },
+      {
+        "name": "N_sharpness",
+        "group": "N",
+        "delta": 0.31731696176653484,
+        "scaled_delta": 0.9749084495792717
+      },
+      {
+        "name": "R_edge_density",
+        "group": "R",
+        "delta": 0.6812341274965564,
+        "scaled_delta": 0.917376530052352
+      }
+    ]
+  },
+  {
+    "pair_id": "d3bb4f995d839388",
+    "img_A": "435684.jpg",
+    "img_B": "436180.jpg",
+    "q_A": 0.3318,
+    "model_q_A": 0.5237,
+    "top_features": [
+      {
+        "name": "O_balance_lr",
+        "group": "O",
+        "delta": -0.14043857511334168,
+        "scaled_delta": -0.32423005216669903
+      },
+      {
+        "name": "O_balance_tb",
+        "group": "O",
+        "delta": -0.2041082277056927,
+        "scaled_delta": -0.2887541633952032
+      },
+      {
+        "name": "R_saturation_mean",
+        "group": "R",
+        "delta": -0.15820342647202107,
+        "scaled_delta": -0.24279588147567918
+      }
+    ]
+  },
+  {
+    "pair_id": "cc11871a169b91e4",
+    "img_A": "437639.jpg",
+    "img_B": "42347.jpg",
+    "q_A": 0.2012,
+    "model_q_A": 0.4331,
+    "top_features": [
+      {
+        "name": "O_hue_dominant_share",
+        "group": "O",
+        "delta": -0.6011653230766858,
+        "scaled_delta": -0.6170448680601953
+      },
+      {
+        "name": "O_symmetry_lr",
+        "group": "O",
+        "delta": -0.16696563929202202,
+        "scaled_delta": -0.5432756055670946
+      },
+      {
+        "name": "R_hue_entropy",
+        "group": "R",
+        "delta": 0.4513665086806993,
+        "scaled_delta": 0.508650341399353
+      }
+    ]
+  },
+  {
+    "pair_id": "a0ab2766baac28a8",
+    "img_A": "436422.jpg",
+    "img_B": "53228.jpg",
+    "q_A": 0.7025,
+    "model_q_A": 0.2749,
+    "top_features": [
+      {
+        "name": "O_symmetry_lr",
+        "group": "O",
+        "delta": -0.3073313757898922,
+        "scaled_delta": -1.0
+      },
+      {
+        "name": "R_local_entropy",
+        "group": "R",
+        "delta": 0.39911345034517554,
+        "scaled_delta": 0.7918329917252255
+      },
+      {
+        "name": "R_edge_density",
+        "group": "R",
+        "delta": 0.5692469686960366,
+        "scaled_delta": 0.7665702404021585
+      }
+    ]
+  },
+  {
+    "pair_id": "833790132ea32b86",
+    "img_A": "437225.jpg",
+    "img_B": "436905.jpg",
+    "q_A": 0.6544,
+    "model_q_A": 0.3368,
+    "top_features": [
+      {
+        "name": "N_dark_ratio",
+        "group": "N",
+        "delta": -0.6585913393041694,
+        "scaled_delta": -0.6974208632878234
+      },
+      {
+        "name": "R_saturation_mean",
+        "group": "R",
+        "delta": -0.4251118514013708,
+        "scaled_delta": -0.652422068146595
+      },
+      {
+        "name": "N_mean_b",
+        "group": "N",
+        "delta": 0.5193581851986868,
+        "scaled_delta": 0.6504274774526788
+      }
+    ]
+  },
+  {
+    "pair_id": "6edf37bbeaf54c4a",
+    "img_A": "54619.jpg",
+    "img_B": "54639.jpg",
+    "q_A": 0.2012,
+    "model_q_A": 0.5203,
+    "top_features": [
+      {
+        "name": "O_balance_tb",
+        "group": "O",
+        "delta": -0.288410483487597,
+        "scaled_delta": -0.40801749547279237
+      },
+      {
+        "name": "O_rule_of_thirds",
+        "group": "O",
+        "delta": 0.029545461734689193,
+        "scaled_delta": 0.15739356591071613
+      },
+      {
+        "name": "R_edge_density",
+        "group": "R",
+        "delta": 0.11121993006370423,
+        "scaled_delta": 0.14977310941460725
+      }
+    ]
+  },
+  {
+    "pair_id": "48273464560aa291",
+    "img_A": "51604.jpg",
+    "img_B": "51728.jpg",
+    "q_A": 0.7421,
+    "model_q_A": 0.6922,
+    "top_features": [
+      {
+        "name": "R_high_freq_ratio",
+        "group": "R",
+        "delta": -0.6243611452471812,
+        "scaled_delta": -0.5387923366510362
+      },
+      {
+        "name": "O_balance_lr",
+        "group": "O",
+        "delta": 0.15662737825315465,
+        "scaled_delta": 0.3616050859300495
+      },
+      {
+        "name": "R_brightness_std",
+        "group": "R",
+        "delta": 0.08978946426732971,
+        "scaled_delta": 0.29083285640609097
+      }
+    ]
+  }
+]

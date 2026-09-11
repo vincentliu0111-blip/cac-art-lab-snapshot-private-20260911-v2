@@ -1,0 +1,4479 @@
+{
+ "judge_id": "OAI_TERRA_M",
+ "vendor": "openai",
+ "model": "gpt-5.6-terra",
+ "effort": "medium",
+ "prompt": "零搜索，零工具，零外部资料；只依据你当前看到的两幅图像和视觉审美，哪幅更美？仅回答 A 或 B。",
+ "votes": [
+  {
+   "pair_id": "bffa83268634386f",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "0ae41f75764a235c",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "4b2ed93255b86179",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "e1f0b5d8b07654f9",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "5f11155b52929637",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "2b8cc1cfd2652391",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "a71b08dc459cb4de",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "0bb3e685fa15fce9",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "8b4d3aba51e3a52a",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "48f1622ef80adc99",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "6223ff1647bf30f6",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "5b0c593d52971ccb",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "35cde2cee2861963",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "3e412e83ccb2100d",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "5245627401e05686",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "c28879b807626f8f",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "d0a16e84d24bc5f6",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "d7426c96f1cdc1c4",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "b7612fc53eb777b1",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "484149b2a55cb165",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "be54a46d662ae29b",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "e0de668cc9809c51",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "989ef61378b39b38",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "8cfc3f8291de8bf1",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "4a42267a471429d5",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "fcbae8b1ede07655",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "8d370da8563bda3b",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "01a578269a2dad20",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "064b14753be07258",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "8e63fad3256e40a1",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "cb0e1563b61e23d0",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "75970a15357abbe9",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "05f00ad36630e1db",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "a07dfe273466b940",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "e821dbb0eec85569",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "610a03e6cfea6dd4",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "d7892397754647d4",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "97cf121cd8e1ddc3",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "7b42a12c65fc09fd",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "f7ca70790e576b40",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "14798b56bbdae2c9",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "5012e3848c6d54c1",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "286ea702eba3e600",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "236d26ea993c7def",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "1a857c88af1aefdf",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "bcd9dc1d85a83d2d",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "b4aa20daf5976249",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "3cbb2578ed61d49d",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "0154f407c899a5a4",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "413b3b133ea9bb2e",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "9ad69bada97d822c",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "0ca5a846e7a93f81",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "be6f580cbda2c59a",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "cc11871a169b91e4",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "b7d53bb835448766",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "fed4751a451a853c",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "35794202774a8a12",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "efb284a47dbf21b4",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "b7930ac1d0def4ab",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "7858b00d5e49ad11",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "a7a99af726ec5646",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "cc85ea4d263276aa",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "55803b16229a5bb0",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "1835228ad733638d",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "efa02a414fb3961f",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "6a6a1715c59dcc41",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "0f6902c2bd1c2e43",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "fd3bd0bf2c6c8bbf",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "f95e88b62d5f28f8",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "a46c1104595672f4",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "efa7bd70eb2d3856",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "06d01ced6a8ee9d7",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "c5d04bd676a0743d",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "33fdf6f1fc8796b9",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "af0a3a2da9dafe42",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "f926c052b8bf9eef",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "226c72f155674329",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "3a83e2b8f4380460",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "3148cdce26b4924e",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "82f4f06598086682",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "7b086000a6a6bbf5",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "99e6730a0abe221e",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "a62be9e7f71b7295",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "0ad949ead4364525",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "720df126aaa9bb8d",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "47b63aa4525dfeb9",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "4cbfaa0b280bc651",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "8e2145c6285c750f",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "1fc838d19358ac60",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "7fec62db7f382381",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "de9388ae102996a1",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "8bcb6a319c1cea0b",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "1e031468650ac57f",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "cd72a3a54368ad9c",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "ecc10c3778c96362",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "3b15503ebfa3c029",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "568653fc8d48192c",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "6b95be3a75612aa4",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "23536be5411d5a8c",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "05c36ece4f08cc56",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "7db84a7b19a8722c",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "7264e0f84e9e31c4",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "3b8a9a94a4ea10a8",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "5a4076d41784f72c",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "bff92cbeff9f7932",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "32f545d79e5a3af1",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "d7b1a79179959577",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "78fd40f8b40de281",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "1eaa14df21e00cdc",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "f911a8c2546fd496",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "2750eabf100feccf",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "de2853480a71e048",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "a0ab2766baac28a8",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "921280c5471ed8a7",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "0391f07e9bd068cb",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "5577973d7cffc945",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "424aef24294acb3e",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "80908ac55920353e",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "74a9393d8c32e459",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "d860f92a4ae8f2c3",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "e9e8cf7b331dd894",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "cd69f840243ff3d9",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "1e36c757c3de0718",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "979b2c9796abd0cd",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "899afd66775aa2b2",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "34ea662ab44dd8f0",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "60191e4e259a283a",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "04c969f5dd3a3160",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "27b26d293f028110",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "f8e8fb899f3ab500",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "eaff76085cc683ab",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "bda9142b1c7109a2",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "164721ca4f87a748",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "f6b6c3d120a81a4a",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "ef34745b1b931f59",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "778cd9add5d8d898",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "18fdc01a8f75af26",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "634e97dd971d1614",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "2f44ad071edae1cc",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "7721721abad67919",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "57d4ae64ff4f4bbc",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "aa3f61f4421b4e96",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "8d8cd82b28b41b2d",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "31f4f249ef9699c0",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "7f8fe60db569e56f",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "21ded1cfa4c09f17",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "a8e4f8a37031f9ad",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "0ccffae84ca52982",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "3d2610c3db5e20db",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "b657cb5a441e4ed4",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "2180dc657ce614fa",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "740aa4a81592029e",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "052fa0220d7ef49e",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "9f3a9925972ae161",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "acfdd7528e44d1ad",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "d40d1caa8fdc902b",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "b6d57c4b59d75bcf",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "e96ca0ccd420c566",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "6f2a53cafded0031",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "a0c2d33de1878040",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "2bd37abdf523d875",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "844fa60b6ef0598b",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "07aff7fff6f446f6",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "4f0f51524046fda7",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "942cc2b7ef93b691",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "f1e9b9a06020e09a",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "7ce9c94f1e834898",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "f6eef5621918cf05",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "e08cfc2c308cabde",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "536bb3380c5555cc",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "03af6d1982e74205",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "2f98bf03222a4599",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "b9b34851f37012f2",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "3398f41c8e2848c5",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "06368106003fd67a",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "47e05da31e64fa0a",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "ede1c79eda04bae3",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "f02720f8bdbabc89",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "58334ade32c53677",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "b138692ebfeaa499",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "5914d135aa037d6a",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "a66a9e3a6ec06304",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "fc3b7384ab0d20a6",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "36f6ba9d50b0dc48",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "39323d22b312e98c",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "d72493fd1e4e8bdd",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "c460e7c4cefee830",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "fdbceb96d5516558",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "48273464560aa291",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "6afd82a7996ee12e",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "43dc4486074cf169",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "9f4c70a955462e9f",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "d4c299441d47e4d2",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "bf8bd661231af480",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "af8fbf2cf2134982",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "54bb527a9e1704ce",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "7977613cfd5c7464",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "8b4d6223dc8eb4a9",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "f1df0075785e6711",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "f896852f0b947470",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "e8b2eccf0a9b9c3c",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "06f7ed3e2f657e45",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "0a6a01a2ea6ad634",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "de38fc843a459d0f",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "2166c8b93d06c939",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "3e9b2aeef6fe9d9d",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "4453e9af8d5dc3d9",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "a87d43ccab7362fe",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "082f01e384057c9e",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "b9ffc72398cc4f9b",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "6ba271b6aacff29b",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "2996ad63933ab884",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "fbfaf2a3f7d42106",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "4318bb5cee0f73b1",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "47839b0322a2790a",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "47c5d7fde8aa40d0",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "ffbbe34dbcc97526",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "5a69eea526ff5fcc",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "13126372a812d1c5",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "290e6734d38b3e20",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "833790132ea32b86",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "6f9aab75c77bb256",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "f805ec9045ae7062",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "a430d0cab4ba5f68",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "97d0a10533ac7be0",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "0ae04140cffc6dc7",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "d00ca94908d0371a",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "cb2ca26df54adc3e",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "34e27b365d292293",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "ef658948d274a2ba",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "f4b768440e5ae600",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "30317c6cf775d83f",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "5d99546620a4150e",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "fe61fa0ef6f26606",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "a1c8320acb391f3e",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "eddac10be9872f92",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "dcd1774deb73454f",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "2dd7806c41923d26",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "4274c77266cfb151",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "fcbd392e98eb8161",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "7969dace937058b9",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "7dcf7d1860809344",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "f1a9b7580698e01b",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "f00742c5210d4d0a",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "fb44883532ab87a8",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "bba45113baa7131a",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "851c20aa707f054c",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "abbbdb71fc7729e4",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "ae8c845d374f3415",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "86e2313e0aefb2df",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "911424e2b67aa6cb",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "4a470b07969e7ea5",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "94304b607a45ab9b",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "bdeb9e26f661a56e",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "67c25bdad4899c53",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "082a76293ea49a95",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "ab4cdc2786a23cd9",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "232f2d0f17a21587",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "21a0d21473b2251e",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "0abcd6c592da9b37",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "1a87a1545fe56394",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "1f06c29fa9160c20",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "2ff366cb94c73cc9",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "b492bc50fd43a8b0",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "bba99b5c36fa785f",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "bc8958dbce9c1f53",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "c0aeb32ca35580a3",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "738e74f817d94304",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "e3b2b4d266220ccc",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "51391ee87af14452",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "4d5483a4bc48160e",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "c39b229e18fe8bff",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "69b180f2494c2042",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "7cfb68c4b5ecc91b",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "127025fe185c8aba",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "fe89accf318d25d9",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "c4fb445a0101743e",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "b58d43add5571646",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "dbeffd2f47485e78",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "ee85a1d5f8a33d80",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "ebab835d5af6c4b7",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "9d7a5b9235bb793c",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "76b86f1125d2fd6d",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "96c3d36169ddf04f",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "ac6ced111630704f",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "14c23513bfba9af4",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "1c3854b74608b9e0",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "bc5132ff5ef4c405",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "81e29f2cd8cb5c47",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "bebfb13391544245",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "4fb5a00307ac7fbb",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "3a40b741263a011d",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "b3c7cde1f0b543d2",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "ad95dd8451027773",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "71300ed801ae8778",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "4db59f1f0fb8f66a",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "e56aaf6c3bcbf3ee",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "e80243c160de4d4d",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "aaad50b0b4e14f78",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "4583f6b425cce501",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "a27d13e4428f1874",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "3ca69e5f37393b8d",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "574cd4fb2cd2ea30",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "e6cf2051c202a8d3",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "9c1ff692ca348be4",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "893130b4feb5463f",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "e2dd2a4c4608bc0c",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "400ab42f24ccaef0",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "525fb2dee80bb0a2",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "1c99f20197fefe4e",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "4fd28ec7fa27e0d8",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "b08e22ce34a3a73a",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "bddeef90c936beea",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "8099c5db1d45eca9",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "5900d20a640e1bf4",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "cdd59cbc38b5bb20",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "e9c8c5cd90bf6223",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "19b1dabd5650a39b",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "fc218687a37096d7",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "e8bbd96731d88a6d",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "306bc51f9d23e0e9",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "fa76ed5ca38901e9",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "efcc259357ad0654",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "c0bd596d6742d1c9",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "69c5e4010cce03f1",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "5f2241df8fa17da1",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "06b846cb0db1dc35",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "7adb98b064e7c9e6",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "30fab65707892dea",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "fdd975fb78891fcf",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "0735414262b22d5f",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "61a2ceec1d8ac97c",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "9c538ed4b5437714",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "c016c9201f41d3d5",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "08f7351d8794760b",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "4563dc7eb06474b7",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "4e2ad25c931fc30b",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "9ab01c573d1d06f9",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "eaf7ef524a3e6ebd",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "d2577fd0b264a52f",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "d12e80aa7b986a4d",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "a386f8d5a7666ed2",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "dbd41a172d90f912",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "f874788b4916a961",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "1cc481c05eb0f55f",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "a0195dfcf3537cb9",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "85c8960b9d739abc",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "34cf09ca7e677084",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "1c25558a94ba429f",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "e44865fd148adad7",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "421233c66ab7bc2a",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "70b11f07d1a188e7",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "2d18f99fee161556",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "a7f616da78188d42",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "622824995d72b2f6",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "0078a6579e04d929",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "0feaf0c172e1aaad",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "0a7d5bc8f0347586",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "eb5abb7c0d6a5901",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "937d6a033e6cbb5c",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "6a2dcdd7d9d845fc",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "7f865a34b9cf2b78",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "005d297973ef5805",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "f7b03d5d3c8ca4d6",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "fca48d651b127670",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "5486d0756667884b",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "2222e3631849b324",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "1615342671f0d6b6",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "273ca32a6771ea37",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "6432fc474f3917c6",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "ef44707dcab4a2e7",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "03fa0fe83797654c",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "2803350ce2936f43",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "574c9fe3d8893f0c",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "33c6cdac8e91c417",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "1548006dfb6eb60a",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "5e856de0a739b5d2",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "3c004f9ba8be0c90",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "022affff283afb22",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "d67a145dd81cdbc1",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "ea67e62bdba08169",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "61792b4489602d3c",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "fbbbc817f3bd2063",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "e3e4726fa098a2d0",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "5a55f499863b6649",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "e57f7ef1e85f715c",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "d1c77e22498b3782",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "1ce32a95c407814d",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "947374dff70bc011",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "46db5551597e2c20",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "0b2259bf96b7825c",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "869f268ae43590f2",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "c534311e730ed1e5",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "85ec52eb499e0b01",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "ca804fb2fcee226f",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "c786daa756f3c9b6",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "186cf6260dd42772",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "d7a60600cf8a75ad",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "71f066663c034674",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "93923b90b53dce39",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "75c9d735df2dcb09",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "a32ad94915bdc9aa",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "34ebc276251fa40b",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "85615225732cff35",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "049b88fff73789cb",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "ebb1db0df47f6beb",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "ff97724c4bafc06d",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "f14008f9692e1def",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "219997aba0c47e59",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "305e7c15d609f6bb",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "3f84165b64509503",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "a00026da5eefbde4",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "83263cfcc370ce8b",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "3c47ee48142a85c2",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "6efbb3980a9a88f6",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "6edf37bbeaf54c4a",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "972fbd86684ceb89",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "bbba4f507c645a00",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "47062d2d0bc7b044",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "c79aff566f691894",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "909ea3dc8f17d808",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "c795bd9dfc0d79c0",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "0897608e243d46d4",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "1b69a823a7a2c724",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "e3db320f9267452a",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "a726ca118a0cd33d",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "02eb5ba41edf3ed0",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "0a23a08495d1bd5b",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "1c8fed4d175d23ff",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "e5dac702178c7ca0",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "36cc5487178d030e",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "ab700969429ff8ef",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "4587710ce7b35d47",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "d3bb4f995d839388",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "fd0e62c3d8deef97",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "ecdc5cc498779e66",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "a135c3ddcb0822e3",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "984dc1250215a67b",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "e66009cb0005a19e",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "ec7184131d18cdc4",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "33c9f0b2f95a7ecb",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "7814b45aaea74f37",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "05f972b855bc901d",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "e101fc69cfd349a7",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "b28d348196f5b14e",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "ab276921c4748695",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "3ec01d361aff6f25",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "93dbdeeabed526a8",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "0dfae6cf9bf51ca5",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "2a822dca475868fe",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "0d59efe7da6c609f",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "3f0f425b72de7009",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "a0a8221db21aaf87",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "969219b89c3addce",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "2afb17f3ba344625",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "2189dee199fa44ce",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "5bfe4e92d7db454c",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "0c967590a08661e8",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "0f66885bc4944fd3",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "30f0c94c31a00b9e",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "ea9ae5443de16d6f",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "6f5706e9e74e128c",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "50f44d85f2d4712f",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "f13a6eacc5f5a831",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "5f2c01c0c6dc70d6",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "245d0ddac7d03e89",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "f17f24fd7a3e3c20",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "2b0db1d77e8dc5bd",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "ddea685cc850cc57",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "ddae9508a042890a",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "a3782f505dcad944",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "1be2cf45effa0a2e",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "bd3e1de6e175c05c",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "a4d36d52b81b92a0",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "5607427d709c220a",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "4af09db2e3629903",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "1586a06acdf494c7",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "5b84f99746ee7796",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "5f72f33626f58337",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "10090c44df867a83",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "ed793bddba6f6dc4",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "843e416d26974fd9",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "121431c67f767d2f",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "5f98a393776cd8b4",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "0dbc30e05de0acb8",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "7c1bb055a2b5fccf",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "e145b221b3960e90",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "e67174ca71fe4e45",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "e638ab92dc122e21",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "8ffec9013ecd9fdb",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "2e503968f93097cd",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "16a17cc911ebb93d",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "47bdaaae5c79f7f7",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "79c77d35324a58af",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "9beb86c596125502",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "048e999ae2f394d9",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "7b6ae7514b6857a6",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "05d7a530501836f8",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "719bf60b5166c5e4",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "9b79e89e97531cbe",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "626db8f834dd7e24",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "0e1a4ef1eb696db6",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "3823b8e1a8a3a3c9",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "819bd8b7824b182f",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "af0d51be2d3d0c34",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "72ae39aeb778479f",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "966f769bca1d8cb3",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "a150a8656a584ddb",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "e353ec81465194c5",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "94623385a9cb3989",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "81924abc7ea08ab0",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "db3f42426e474825",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "36bf2cfb2677f47b",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "04525aed8883ff85",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "1335f41d23efc432",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "777c59e49966d43c",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "ee50b06f8e160c6a",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "64e08dbea65d2ef1",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "35d80475cb06075f",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "d7009ea8ac91e5ed",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "98bd94b2365af0ba",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "ab09c6f9d0fa89cb",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "f4e9cfcd3fff8e09",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "ae14d99e4e4ac1af",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "0b0359d103ebe94d",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "b0b300e16aaf47f8",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "3654e43b97496ea1",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "2addefcbc382aa6c",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "398fbb0a02362fa6",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "b86fc74abea27f65",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "d673706367bc2683",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "1947d66a764261a4",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "690d784abc57ddd9",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "532e15ddf29b9cf1",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "a26c7d8d2b3725f3",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "7797c0e38e6bc4e1",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "81f5c08be89b492b",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "5069edb11727c6cb",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "71ad0b72dfb9eda2",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "fdf3c343b96ea755",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "2b5f4282eb018efa",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "dd7a238ec9e66798",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "c3d1c896a76e0f41",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "147b8450d622e9c7",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "8a927c8d96bcd229",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "efb2181ebe592045",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "a528b3d1c740d757",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "0b4ce7d93effc772",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "0b1cfe431b979575",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "5849b82bfa3a1278",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "fa0cd5fd5bde3044",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "8916946b3abd4a5a",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "0302d9404111b225",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "59abbac189573a77",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "2e11eeed70344cd5",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "c458aac325a1553b",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "8c33b55ee8e4457a",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "ac3397401e16d9d0",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "e6da1c33051ff49c",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "ea67ecb68284f214",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "6bee569aac78922d",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "29e58da75c219d9e",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "9dc9cb5011001a0b",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "ecb713dab5c2d7c9",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "73dae12979b02b1d",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "e48ee65d3e5f3c19",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "ff13078b4e17f2de",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "c03f50af0cc88fce",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "0e3e648d3f0dd3ba",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "7e783ecd39564a9b",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "8603327d071c9741",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "a76bed8662ecba84",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "b21aad05dd7bddf2",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "14cbd0c74caa6caa",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "9a97b1c15a8d098c",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "5e265080fad295a9",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "b72eefcad528f2fd",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "76b17218f15ed7c3",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "becb92218aa5d856",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "9989a4a9b851ce76",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "a3a4969cde1425ef",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "d814bfead063e0d3",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "1e2aaa92a47b851c",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "d21da316263a8b2d",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "3484d3ece2504d70",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "3272d87879d8d50e",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "01f19b375f5ec883",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "3692d97099d95600",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "c1a04cc2ad58d386",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "d2d624f2d669d320",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "90751606854d05ed",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "8415bf98c514c9ed",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "969ca14c4b785944",
+   "presentation": "normal",
+   "choice": "B"
+  },
+  {
+   "pair_id": "f0d25a5a0ad6f48c",
+   "presentation": "normal",
+   "choice": "A"
+  },
+  {
+   "pair_id": "bffa83268634386f",
+   "presentation": "swap",
+   "choice": "B"
+  },
+  {
+   "pair_id": "0ae41f75764a235c",
+   "presentation": "swap",
+   "choice": "B"
+  },
+  {
+   "pair_id": "4b2ed93255b86179",
+   "presentation": "swap",
+   "choice": "B"
+  },
+  {
+   "pair_id": "e1f0b5d8b07654f9",
+   "presentation": "swap",
+   "choice": "B"
+  },
+  {
+   "pair_id": "5f11155b52929637",
+   "presentation": "swap",
+   "choice": "B"
+  },
+  {
+   "pair_id": "2b8cc1cfd2652391",
+   "presentation": "swap",
+   "choice": "A"
+  },
+  {
+   "pair_id": "a71b08dc459cb4de",
+   "presentation": "swap",
+   "choice": "B"
+  },
+  {
+   "pair_id": "0bb3e685fa15fce9",
+   "presentation": "swap",
+   "choice": "A"
+  },
+  {
+   "pair_id": "8b4d3aba51e3a52a",
+   "presentation": "swap",
+   "choice": "A"
+  },
+  {
+   "pair_id": "48f1622ef80adc99",
+   "presentation": "swap",
+   "choice": "A"
+  },
+  {
+   "pair_id": "6223ff1647bf30f6",
+   "presentation": "swap",
+   "choice": "B"
+  },
+  {
+   "pair_id": "5b0c593d52971ccb",
+   "presentation": "swap",
+   "choice": "B"
+  },
+  {
+   "pair_id": "35cde2cee2861963",
+   "presentation": "swap",
+   "choice": "B"
+  },
+  {
+   "pair_id": "3e412e83ccb2100d",
+   "presentation": "swap",
+   "choice": "A"
+  },
+  {
+   "pair_id": "5245627401e05686",
+   "presentation": "swap",
+   "choice": "A"
+  },
+  {
+   "pair_id": "c28879b807626f8f",
+   "presentation": "swap",
+   "choice": "B"
+  },
+  {
+   "pair_id": "d0a16e84d24bc5f6",
+   "presentation": "swap",
+   "choice": "A"
+  },
+  {
+   "pair_id": "d7426c96f1cdc1c4",
+   "presentation": "swap",
+   "choice": "B"
+  },
+  {
+   "pair_id": "b7612fc53eb777b1",
+   "presentation": "swap",
+   "choice": "B"
+  },
+  {
+   "pair_id": "484149b2a55cb165",
+   "presentation": "swap",
+   "choice": "B"
+  },
+  {
+   "pair_id": "be54a46d662ae29b",
+   "presentation": "swap",
+   "choice": "B"
+  },
+  {
+   "pair_id": "e0de668cc9809c51",
+   "presentation": "swap",
+   "choice": "B"
+  },
+  {
+   "pair_id": "989ef61378b39b38",
+   "presentation": "swap",
+   "choice": "A"
+  },
+  {
+   "pair_id": "8cfc3f8291de8bf1",
+   "presentation": "swap",
+   "choice": "B"
+  },
+  {
+   "pair_id": "4a42267a471429d5",
+   "presentation": "swap",
+   "choice": "B"
+  },
+  {
+   "pair_id": "fcbae8b1ede07655",
+   "presentation": "swap",
+   "choice": "B"
+  },
+  {
+   "pair_id": "8d370da8563bda3b",
+   "presentation": "swap",
+   "choice": "A"
+  },
+  {
+   "pair_id": "01a578269a2dad20",
+   "presentation": "swap",
+   "choice": "B"
+  },
+  {
+   "pair_id": "064b14753be07258",
+   "presentation": "swap",
+   "choice": "A"
+  },
+  {
+   "pair_id": "8e63fad3256e40a1",
+   "presentation": "swap",
+   "choice": "B"
+  },
+  {
+   "pair_id": "cb0e1563b61e23d0",
+   "presentation": "swap",
+   "choice": "B"
+  },
+  {
+   "pair_id": "75970a15357abbe9",
+   "presentation": "swap",
+   "choice": "B"
+  },
+  {
+   "pair_id": "05f00ad36630e1db",
+   "presentation": "swap",
+   "choice": "A"
+  },
+  {
+   "pair_id": "a07dfe273466b940",
+   "presentation": "swap",
+   "choice": "B"
+  },
+  {
+   "pair_id": "e821dbb0eec85569",
+   "presentation": "swap",
+   "choice": "B"
+  },
+  {
+   "pair_id": "610a03e6cfea6dd4",
+   "presentation": "swap",
+   "choice": "B"
+  },
+  {
+   "pair_id": "d7892397754647d4",
+   "presentation": "swap",
+   "choice": "B"
+  },
+  {
+   "pair_id": "97cf121cd8e1ddc3",
+   "presentation": "swap",
+   "choice": "A"
+  },
+  {
+   "pair_id": "7b42a12c65fc09fd",
+   "presentation": "swap",
+   "choice": "A"
+  },
+  {
+   "pair_id": "f7ca70790e576b40",
+   "presentation": "swap",
+   "choice": "B"
+  },
+  {
+   "pair_id": "14798b56bbdae2c9",
+   "presentation": "swap",
+   "choice": "A"
+  },
+  {
+   "pair_id": "5012e3848c6d54c1",
+   "presentation": "swap",
+   "choice": "B"
+  },
+  {
+   "pair_id": "286ea702eba3e600",
+   "presentation": "swap",
+   "choice": "A"
+  },
+  {
+   "pair_id": "236d26ea993c7def",
+   "presentation": "swap",
+   "choice": "B"
+  },
+  {
+   "pair_id": "1a857c88af1aefdf",
+   "presentation": "swap",
+   "choice": "A"
+  },
+  {
+   "pair_id": "bcd9dc1d85a83d2d",
+   "presentation": "swap",
+   "choice": "A"
+  },
+  {
+   "pair_id": "b4aa20daf5976249",
+   "presentation": "swap",
+   "choice": "A"
+  },
+  {
+   "pair_id": "3cbb2578ed61d49d",
+   "presentation": "swap",
+   "choice": "A"
+  },
+  {
+   "pair_id": "0154f407c899a5a4",
+   "presentation": "swap",
+   "choice": "B"
+  },
+  {
+   "pair_id": "413b3b133ea9bb2e",
+   "presentation": "swap",
+   "choice": "B"
+  },
+  {
+   "pair_id": "9ad69bada97d822c",
+   "presentation": "swap",
+   "choice": "B"
+  },
+  {
+   "pair_id": "0ca5a846e7a93f81",
+   "presentation": "swap",
+   "choice": "B"
+  },
+  {
+   "pair_id": "be6f580cbda2c59a",
+   "presentation": "swap",
+   "choice": "B"
+  },
+  {
+   "pair_id": "cc11871a169b91e4",
+   "presentation": "swap",
+   "choice": "B"
+  },
+  {
+   "pair_id": "b7d53bb835448766",
+   "presentation": "swap",
+   "choice": "B"
+  },
+  {
+   "pair_id": "fed4751a451a853c",
+   "presentation": "swap",
+   "choice": "B"
+  },
+  {
+   "pair_id": "35794202774a8a12",
+   "presentation": "swap",
+   "choice": "A"
+  },
+  {
+   "pair_id": "efb284a47dbf21b4",
+   "presentation": "swap",
+   "choice": "B"
+  },
+  {
+   "pair_id": "b7930ac1d0def4ab",
+   "presentation": "swap",
+   "choice": "B"
+  },
+  {
+   "pair_id": "7858b00d5e49ad11",
+   "presentation": "swap",
+   "choice": "B"
+  },
+  {
+   "pair_id": "a7a99af726ec5646",
+   "presentation": "swap",
+   "choice": "B"
+  },
+  {
+   "pair_id": "cc85ea4d263276aa",
+   "presentation": "swap",
+   "choice": "B"
+  },
+  {
+   "pair_id": "55803b16229a5bb0",
+   "presentation": "swap",
+   "choice": "B"
+  },
+  {
+   "pair_id": "1835228ad733638d",
+   "presentation": "swap",
+   "choice": "B"
+  },
+  {
+   "pair_id": "efa02a414fb3961f",
+   "presentation": "swap",
+   "choice": "A"
+  },
+  {
+   "pair_id": "6a6a1715c59dcc41",
+   "presentation": "swap",
+   "choice": "A"
+  },
+  {
+   "pair_id": "0f6902c2bd1c2e43",
+   "presentation": "swap",
+   "choice": "B"
+  },
+  {
+   "pair_id": "fd3bd0bf2c6c8bbf",
+   "presentation": "swap",
+   "choice": "A"
+  },
+  {
+   "pair_id": "f95e88b62d5f28f8",
+   "presentation": "swap",
+   "choice": "B"
+  },
+  {
+   "pair_id": "a46c1104595672f4",
+   "presentation": "swap",
+   "choice": "B"
+  },
+  {
+   "pair_id": "efa7bd70eb2d3856",
+   "presentation": "swap",
+   "choice": "A"
+  },
+  {
+   "pair_id": "06d01ced6a8ee9d7",
+   "presentation": "swap",
+   "choice": "B"
+  },
+  {
+   "pair_id": "c5d04bd676a0743d",
+   "presentation": "swap",
+   "choice": "A"
+  },
+  {
+   "pair_id": "33fdf6f1fc8796b9",
+   "presentation": "swap",
+   "choice": "B"
+  },
+  {
+   "pair_id": "af0a3a2da9dafe42",
+   "presentation": "swap",
+   "choice": "A"
+  },
+  {
+   "pair_id": "f926c052b8bf9eef",
+   "presentation": "swap",
+   "choice": "B"
+  },
+  {
+   "pair_id": "226c72f155674329",
+   "presentation": "swap",
+   "choice": "B"
+  },
+  {
+   "pair_id": "3a83e2b8f4380460",
+   "presentation": "swap",
+   "choice": "B"
+  },
+  {
+   "pair_id": "3148cdce26b4924e",
+   "presentation": "swap",
+   "choice": "B"
+  },
+  {
+   "pair_id": "82f4f06598086682",
+   "presentation": "swap",
+   "choice": "A"
+  },
+  {
+   "pair_id": "7b086000a6a6bbf5",
+   "presentation": "swap",
+   "choice": "B"
+  },
+  {
+   "pair_id": "99e6730a0abe221e",
+   "presentation": "swap",
+   "choice": "B"
+  },
+  {
+   "pair_id": "a62be9e7f71b7295",
+   "presentation": "swap",
+   "choice": "A"
+  },
+  {
+   "pair_id": "0ad949ead4364525",
+   "presentation": "swap",
+   "choice": "B"
+  },
+  {
+   "pair_id": "720df126aaa9bb8d",
+   "presentation": "swap",
+   "choice": "A"
+  },
+  {
+   "pair_id": "47b63aa4525dfeb9",
+   "presentation": "swap",
+   "choice": "B"
+  },
+  {
+   "pair_id": "4cbfaa0b280bc651",
+   "presentation": "swap",
+   "choice": "B"
+  },
+  {
+   "pair_id": "8e2145c6285c750f",
+   "presentation": "swap",
+   "choice": "B"
+  },
+  {
+   "pair_id": "1fc838d19358ac60",
+   "presentation": "swap",
+   "choice": "A"
+  },
+  {
+   "pair_id": "7fec62db7f382381",
+   "presentation": "swap",
+   "choice": "A"
+  },
+  {
+   "pair_id": "de9388ae102996a1",
+   "presentation": "swap",
+   "choice": "B"
+  },
+  {
+   "pair_id": "8bcb6a319c1cea0b",
+   "presentation": "swap",
+   "choice": "A"
+  },
+  {
+   "pair_id": "1e031468650ac57f",
+   "presentation": "swap",
+   "choice": "B"
+  },
+  {
+   "pair_id": "cd72a3a54368ad9c",
+   "presentation": "swap",
+   "choice": "B"
+  },
+  {
+   "pair_id": "ecc10c3778c96362",
+   "presentation": "swap",
+   "choice": "A"
+  },
+  {
+   "pair_id": "3b15503ebfa3c029",
+   "presentation": "swap",
+   "choice": "B"
+  },
+  {
+   "pair_id": "568653fc8d48192c",
+   "presentation": "swap",
+   "choice": "A"
+  },
+  {
+   "pair_id": "6b95be3a75612aa4",
+   "presentation": "swap",
+   "choice": "A"
+  },
+  {
+   "pair_id": "23536be5411d5a8c",
+   "presentation": "swap",
+   "choice": "A"
+  },
+  {
+   "pair_id": "05c36ece4f08cc56",
+   "presentation": "swap",
+   "choice": "A"
+  },
+  {
+   "pair_id": "7db84a7b19a8722c",
+   "presentation": "swap",
+   "choice": "A"
+  },
+  {
+   "pair_id": "7264e0f84e9e31c4",
+   "presentation": "swap",
+   "choice": "B"
+  },
+  {
+   "pair_id": "3b8a9a94a4ea10a8",
+   "presentation": "swap",
+   "choice": "B"
+  },
+  {
+   "pair_id": "5a4076d41784f72c",
+   "presentation": "swap",
+   "choice": "A"
+  },
+  {
+   "pair_id": "bff92cbeff9f7932",
+   "presentation": "swap",
+   "choice": "A"
+  },
+  {
+   "pair_id": "32f545d79e5a3af1",
+   "presentation": "swap",
+   "choice": "B"
+  },
+  {
+   "pair_id": "d7b1a79179959577",
+   "presentation": "swap",
+   "choice": "A"
+  },
+  {
+   "pair_id": "78fd40f8b40de281",
+   "presentation": "swap",
+   "choice": "B"
+  },
+  {
+   "pair_id": "1eaa14df21e00cdc",
+   "presentation": "swap",
+   "choice": "B"
+  },
+  {
+   "pair_id": "f911a8c2546fd496",
+   "presentation": "swap",
+   "choice": "B"
+  },
+  {
+   "pair_id": "2750eabf100feccf",
+   "presentation": "swap",
+   "choice": "A"
+  },
+  {
+   "pair_id": "de2853480a71e048",
+   "presentation": "swap",
+   "choice": "B"
+  },
+  {
+   "pair_id": "a0ab2766baac28a8",
+   "presentation": "swap",
+   "choice": "B"
+  },
+  {
+   "pair_id": "921280c5471ed8a7",
+   "presentation": "swap",
+   "choice": "B"
+  },
+  {
+   "pair_id": "0391f07e9bd068cb",
+   "presentation": "swap",
+   "choice": "B"
+  },
+  {
+   "pair_id": "5577973d7cffc945",
+   "presentation": "swap",
+   "choice": "A"
+  },
+  {
+   "pair_id": "424aef24294acb3e",
+   "presentation": "swap",
+   "choice": "B"
+  },
+  {
+   "pair_id": "80908ac55920353e",
+   "presentation": "swap",
+   "choice": "A"
+  },
+  {
+   "pair_id": "74a9393d8c32e459",
+   "presentation": "swap",
+   "choice": "B"
+  },
+  {
+   "pair_id": "d860f92a4ae8f2c3",
+   "presentation": "swap",
+   "choice": "A"
+  },
+  {
+   "pair_id": "e9e8cf7b331dd894",
+   "presentation": "swap",
+   "choice": "A"
+  },
+  {
+   "pair_id": "cd69f840243ff3d9",
+   "presentation": "swap",
+   "choice": "A"
+  },
+  {
+   "pair_id": "1e36c757c3de0718",
+   "presentation": "swap",
+   "choice": "B"
+  },
+  {
+   "pair_id": "979b2c9796abd0cd",
+   "presentation": "swap",
+   "choice": "A"
+  },
+  {
+   "pair_id": "899afd66775aa2b2",
+   "presentation": "swap",
+   "choice": "B"
+  },
+  {
+   "pair_id": "34ea662ab44dd8f0",
+   "presentation": "swap",
+   "choice": "B"
+  },
+  {
+   "pair_id": "60191e4e259a283a",
+   "presentation": "swap",
+   "choice": "B"
+  },
+  {
+   "pair_id": "04c969f5dd3a3160",
+   "presentation": "swap",
+   "choice": "B"
+  },
+  {
+   "pair_id": "27b26d293f028110",
+   "presentation": "swap",
+   "choice": "B"
+  },
+  {
+   "pair_id": "f8e8fb899f3ab500",
+   "presentation": "swap",
+   "choice": "B"
+  },
+  {
+   "pair_id": "eaff76085cc683ab",
+   "presentation": "swap",
+   "choice": "A"
+  },
+  {
+   "pair_id": "bda9142b1c7109a2",
+   "presentation": "swap",
+   "choice": "B"
+  },
+  {
+   "pair_id": "164721ca4f87a748",
+   "presentation": "swap",
+   "choice": "B"
+  },
+  {
+   "pair_id": "f6b6c3d120a81a4a",
+   "presentation": "swap",
+   "choice": "B"
+  },
+  {
+   "pair_id": "ef34745b1b931f59",
+   "presentation": "swap",
+   "choice": "B"
+  },
+  {
+   "pair_id": "778cd9add5d8d898",
+   "presentation": "swap",
+   "choice": "B"
+  },
+  {
+   "pair_id": "18fdc01a8f75af26",
+   "presentation": "swap",
+   "choice": "B"
+  },
+  {
+   "pair_id": "634e97dd971d1614",
+   "presentation": "swap",
+   "choice": "B"
+  },
+  {
+   "pair_id": "2f44ad071edae1cc",
+   "presentation": "swap",
+   "choice": "A"
+  },
+  {
+   "pair_id": "7721721abad67919",
+   "presentation": "swap",
+   "choice": "A"
+  },
+  {
+   "pair_id": "57d4ae64ff4f4bbc",
+   "presentation": "swap",
+   "choice": "B"
+  },
+  {
+   "pair_id": "aa3f61f4421b4e96",
+   "presentation": "swap",
+   "choice": "B"
+  },
+  {
+   "pair_id": "8d8cd82b28b41b2d",
+   "presentation": "swap",
+   "choice": "B"
+  },
+  {
+   "pair_id": "31f4f249ef9699c0",
+   "presentation": "swap",
+   "choice": "B"
+  },
+  {
+   "pair_id": "7f8fe60db569e56f",
+   "presentation": "swap",
+   "choice": "B"
+  },
+  {
+   "pair_id": "21ded1cfa4c09f17",
+   "presentation": "swap",
+   "choice": "B"
+  },
+  {
+   "pair_id": "a8e4f8a37031f9ad",
+   "presentation": "swap",
+   "choice": "B"
+  },
+  {
+   "pair_id": "0ccffae84ca52982",
+   "presentation": "swap",
+   "choice": "B"
+  },
+  {
+   "pair_id": "3d2610c3db5e20db",
+   "presentation": "swap",
+   "choice": "B"
+  },
+  {
+   "pair_id": "b657cb5a441e4ed4",
+   "presentation": "swap",
+   "choice": "A"
+  },
+  {
+   "pair_id": "bffa83268634386f",
+   "presentation": "normal_repeat",
+   "choice": "B"
+  },
+  {
+   "pair_id": "0ae41f75764a235c",
+   "presentation": "normal_repeat",
+   "choice": "B"
+  },
+  {
+   "pair_id": "4b2ed93255b86179",
+   "presentation": "normal_repeat",
+   "choice": "A"
+  },
+  {
+   "pair_id": "e1f0b5d8b07654f9",
+   "presentation": "normal_repeat",
+   "choice": "A"
+  },
+  {
+   "pair_id": "5f11155b52929637",
+   "presentation": "normal_repeat",
+   "choice": "A"
+  },
+  {
+   "pair_id": "2b8cc1cfd2652391",
+   "presentation": "normal_repeat",
+   "choice": "B"
+  },
+  {
+   "pair_id": "a71b08dc459cb4de",
+   "presentation": "normal_repeat",
+   "choice": "B"
+  },
+  {
+   "pair_id": "0bb3e685fa15fce9",
+   "presentation": "normal_repeat",
+   "choice": "B"
+  },
+  {
+   "pair_id": "8b4d3aba51e3a52a",
+   "presentation": "normal_repeat",
+   "choice": "B"
+  },
+  {
+   "pair_id": "48f1622ef80adc99",
+   "presentation": "normal_repeat",
+   "choice": "B"
+  },
+  {
+   "pair_id": "6223ff1647bf30f6",
+   "presentation": "normal_repeat",
+   "choice": "B"
+  },
+  {
+   "pair_id": "5b0c593d52971ccb",
+   "presentation": "normal_repeat",
+   "choice": "A"
+  },
+  {
+   "pair_id": "35cde2cee2861963",
+   "presentation": "normal_repeat",
+   "choice": "B"
+  },
+  {
+   "pair_id": "3e412e83ccb2100d",
+   "presentation": "normal_repeat",
+   "choice": "B"
+  },
+  {
+   "pair_id": "5245627401e05686",
+   "presentation": "normal_repeat",
+   "choice": "B"
+  },
+  {
+   "pair_id": "c28879b807626f8f",
+   "presentation": "normal_repeat",
+   "choice": "A"
+  },
+  {
+   "pair_id": "d0a16e84d24bc5f6",
+   "presentation": "normal_repeat",
+   "choice": "B"
+  },
+  {
+   "pair_id": "d7426c96f1cdc1c4",
+   "presentation": "normal_repeat",
+   "choice": "A"
+  },
+  {
+   "pair_id": "b7612fc53eb777b1",
+   "presentation": "normal_repeat",
+   "choice": "A"
+  },
+  {
+   "pair_id": "484149b2a55cb165",
+   "presentation": "normal_repeat",
+   "choice": "A"
+  },
+  {
+   "pair_id": "be54a46d662ae29b",
+   "presentation": "normal_repeat",
+   "choice": "A"
+  },
+  {
+   "pair_id": "e0de668cc9809c51",
+   "presentation": "normal_repeat",
+   "choice": "B"
+  },
+  {
+   "pair_id": "989ef61378b39b38",
+   "presentation": "normal_repeat",
+   "choice": "B"
+  },
+  {
+   "pair_id": "8cfc3f8291de8bf1",
+   "presentation": "normal_repeat",
+   "choice": "A"
+  },
+  {
+   "pair_id": "4a42267a471429d5",
+   "presentation": "normal_repeat",
+   "choice": "B"
+  },
+  {
+   "pair_id": "fcbae8b1ede07655",
+   "presentation": "normal_repeat",
+   "choice": "A"
+  },
+  {
+   "pair_id": "8d370da8563bda3b",
+   "presentation": "normal_repeat",
+   "choice": "B"
+  },
+  {
+   "pair_id": "01a578269a2dad20",
+   "presentation": "normal_repeat",
+   "choice": "A"
+  },
+  {
+   "pair_id": "064b14753be07258",
+   "presentation": "normal_repeat",
+   "choice": "B"
+  },
+  {
+   "pair_id": "8e63fad3256e40a1",
+   "presentation": "normal_repeat",
+   "choice": "B"
+  },
+  {
+   "pair_id": "cb0e1563b61e23d0",
+   "presentation": "normal_repeat",
+   "choice": "A"
+  },
+  {
+   "pair_id": "75970a15357abbe9",
+   "presentation": "normal_repeat",
+   "choice": "B"
+  },
+  {
+   "pair_id": "05f00ad36630e1db",
+   "presentation": "normal_repeat",
+   "choice": "B"
+  },
+  {
+   "pair_id": "a07dfe273466b940",
+   "presentation": "normal_repeat",
+   "choice": "B"
+  },
+  {
+   "pair_id": "e821dbb0eec85569",
+   "presentation": "normal_repeat",
+   "choice": "A"
+  },
+  {
+   "pair_id": "610a03e6cfea6dd4",
+   "presentation": "normal_repeat",
+   "choice": "A"
+  },
+  {
+   "pair_id": "d7892397754647d4",
+   "presentation": "normal_repeat",
+   "choice": "B"
+  },
+  {
+   "pair_id": "97cf121cd8e1ddc3",
+   "presentation": "normal_repeat",
+   "choice": "B"
+  },
+  {
+   "pair_id": "7b42a12c65fc09fd",
+   "presentation": "normal_repeat",
+   "choice": "B"
+  },
+  {
+   "pair_id": "f7ca70790e576b40",
+   "presentation": "normal_repeat",
+   "choice": "A"
+  },
+  {
+   "pair_id": "14798b56bbdae2c9",
+   "presentation": "normal_repeat",
+   "choice": "B"
+  },
+  {
+   "pair_id": "5012e3848c6d54c1",
+   "presentation": "normal_repeat",
+   "choice": "A"
+  },
+  {
+   "pair_id": "286ea702eba3e600",
+   "presentation": "normal_repeat",
+   "choice": "B"
+  },
+  {
+   "pair_id": "236d26ea993c7def",
+   "presentation": "normal_repeat",
+   "choice": "B"
+  },
+  {
+   "pair_id": "1a857c88af1aefdf",
+   "presentation": "normal_repeat",
+   "choice": "B"
+  },
+  {
+   "pair_id": "bcd9dc1d85a83d2d",
+   "presentation": "normal_repeat",
+   "choice": "B"
+  },
+  {
+   "pair_id": "b4aa20daf5976249",
+   "presentation": "normal_repeat",
+   "choice": "B"
+  },
+  {
+   "pair_id": "3cbb2578ed61d49d",
+   "presentation": "normal_repeat",
+   "choice": "B"
+  },
+  {
+   "pair_id": "0154f407c899a5a4",
+   "presentation": "normal_repeat",
+   "choice": "A"
+  },
+  {
+   "pair_id": "413b3b133ea9bb2e",
+   "presentation": "normal_repeat",
+   "choice": "A"
+  },
+  {
+   "pair_id": "9ad69bada97d822c",
+   "presentation": "normal_repeat",
+   "choice": "B"
+  },
+  {
+   "pair_id": "0ca5a846e7a93f81",
+   "presentation": "normal_repeat",
+   "choice": "B"
+  },
+  {
+   "pair_id": "be6f580cbda2c59a",
+   "presentation": "normal_repeat",
+   "choice": "A"
+  },
+  {
+   "pair_id": "cc11871a169b91e4",
+   "presentation": "normal_repeat",
+   "choice": "B"
+  },
+  {
+   "pair_id": "b7d53bb835448766",
+   "presentation": "normal_repeat",
+   "choice": "A"
+  },
+  {
+   "pair_id": "fed4751a451a853c",
+   "presentation": "normal_repeat",
+   "choice": "B"
+  },
+  {
+   "pair_id": "35794202774a8a12",
+   "presentation": "normal_repeat",
+   "choice": "B"
+  },
+  {
+   "pair_id": "efb284a47dbf21b4",
+   "presentation": "normal_repeat",
+   "choice": "A"
+  },
+  {
+   "pair_id": "b7930ac1d0def4ab",
+   "presentation": "normal_repeat",
+   "choice": "A"
+  },
+  {
+   "pair_id": "7858b00d5e49ad11",
+   "presentation": "normal_repeat",
+   "choice": "B"
+  },
+  {
+   "pair_id": "a7a99af726ec5646",
+   "presentation": "normal_repeat",
+   "choice": "B"
+  },
+  {
+   "pair_id": "cc85ea4d263276aa",
+   "presentation": "normal_repeat",
+   "choice": "B"
+  },
+  {
+   "pair_id": "55803b16229a5bb0",
+   "presentation": "normal_repeat",
+   "choice": "A"
+  },
+  {
+   "pair_id": "1835228ad733638d",
+   "presentation": "normal_repeat",
+   "choice": "B"
+  },
+  {
+   "pair_id": "efa02a414fb3961f",
+   "presentation": "normal_repeat",
+   "choice": "B"
+  },
+  {
+   "pair_id": "6a6a1715c59dcc41",
+   "presentation": "normal_repeat",
+   "choice": "B"
+  },
+  {
+   "pair_id": "0f6902c2bd1c2e43",
+   "presentation": "normal_repeat",
+   "choice": "A"
+  },
+  {
+   "pair_id": "fd3bd0bf2c6c8bbf",
+   "presentation": "normal_repeat",
+   "choice": "B"
+  },
+  {
+   "pair_id": "f95e88b62d5f28f8",
+   "presentation": "normal_repeat",
+   "choice": "B"
+  },
+  {
+   "pair_id": "a46c1104595672f4",
+   "presentation": "normal_repeat",
+   "choice": "B"
+  },
+  {
+   "pair_id": "efa7bd70eb2d3856",
+   "presentation": "normal_repeat",
+   "choice": "B"
+  },
+  {
+   "pair_id": "06d01ced6a8ee9d7",
+   "presentation": "normal_repeat",
+   "choice": "A"
+  },
+  {
+   "pair_id": "c5d04bd676a0743d",
+   "presentation": "normal_repeat",
+   "choice": "B"
+  },
+  {
+   "pair_id": "33fdf6f1fc8796b9",
+   "presentation": "normal_repeat",
+   "choice": "A"
+  },
+  {
+   "pair_id": "af0a3a2da9dafe42",
+   "presentation": "normal_repeat",
+   "choice": "B"
+  },
+  {
+   "pair_id": "f926c052b8bf9eef",
+   "presentation": "normal_repeat",
+   "choice": "B"
+  },
+  {
+   "pair_id": "226c72f155674329",
+   "presentation": "normal_repeat",
+   "choice": "B"
+  },
+  {
+   "pair_id": "3a83e2b8f4380460",
+   "presentation": "normal_repeat",
+   "choice": "A"
+  },
+  {
+   "pair_id": "3148cdce26b4924e",
+   "presentation": "normal_repeat",
+   "choice": "B"
+  },
+  {
+   "pair_id": "82f4f06598086682",
+   "presentation": "normal_repeat",
+   "choice": "B"
+  },
+  {
+   "pair_id": "7b086000a6a6bbf5",
+   "presentation": "normal_repeat",
+   "choice": "A"
+  },
+  {
+   "pair_id": "99e6730a0abe221e",
+   "presentation": "normal_repeat",
+   "choice": "B"
+  },
+  {
+   "pair_id": "a62be9e7f71b7295",
+   "presentation": "normal_repeat",
+   "choice": "B"
+  },
+  {
+   "pair_id": "0ad949ead4364525",
+   "presentation": "normal_repeat",
+   "choice": "A"
+  },
+  {
+   "pair_id": "720df126aaa9bb8d",
+   "presentation": "normal_repeat",
+   "choice": "A"
+  },
+  {
+   "pair_id": "47b63aa4525dfeb9",
+   "presentation": "normal_repeat",
+   "choice": "A"
+  },
+  {
+   "pair_id": "4cbfaa0b280bc651",
+   "presentation": "normal_repeat",
+   "choice": "B"
+  },
+  {
+   "pair_id": "8e2145c6285c750f",
+   "presentation": "normal_repeat",
+   "choice": "B"
+  },
+  {
+   "pair_id": "1fc838d19358ac60",
+   "presentation": "normal_repeat",
+   "choice": "B"
+  },
+  {
+   "pair_id": "7fec62db7f382381",
+   "presentation": "normal_repeat",
+   "choice": "B"
+  },
+  {
+   "pair_id": "de9388ae102996a1",
+   "presentation": "normal_repeat",
+   "choice": "A"
+  },
+  {
+   "pair_id": "8bcb6a319c1cea0b",
+   "presentation": "normal_repeat",
+   "choice": "B"
+  },
+  {
+   "pair_id": "1e031468650ac57f",
+   "presentation": "normal_repeat",
+   "choice": "A"
+  },
+  {
+   "pair_id": "cd72a3a54368ad9c",
+   "presentation": "normal_repeat",
+   "choice": "B"
+  },
+  {
+   "pair_id": "ecc10c3778c96362",
+   "presentation": "normal_repeat",
+   "choice": "B"
+  },
+  {
+   "pair_id": "3b15503ebfa3c029",
+   "presentation": "normal_repeat",
+   "choice": "A"
+  },
+  {
+   "pair_id": "568653fc8d48192c",
+   "presentation": "normal_repeat",
+   "choice": "B"
+  },
+  {
+   "pair_id": "6b95be3a75612aa4",
+   "presentation": "normal_repeat",
+   "choice": "B"
+  },
+  {
+   "pair_id": "23536be5411d5a8c",
+   "presentation": "normal_repeat",
+   "choice": "B"
+  },
+  {
+   "pair_id": "05c36ece4f08cc56",
+   "presentation": "normal_repeat",
+   "choice": "B"
+  },
+  {
+   "pair_id": "7db84a7b19a8722c",
+   "presentation": "normal_repeat",
+   "choice": "B"
+  },
+  {
+   "pair_id": "7264e0f84e9e31c4",
+   "presentation": "normal_repeat",
+   "choice": "B"
+  },
+  {
+   "pair_id": "3b8a9a94a4ea10a8",
+   "presentation": "normal_repeat",
+   "choice": "B"
+  },
+  {
+   "pair_id": "5a4076d41784f72c",
+   "presentation": "normal_repeat",
+   "choice": "B"
+  },
+  {
+   "pair_id": "bff92cbeff9f7932",
+   "presentation": "normal_repeat",
+   "choice": "B"
+  },
+  {
+   "pair_id": "32f545d79e5a3af1",
+   "presentation": "normal_repeat",
+   "choice": "A"
+  },
+  {
+   "pair_id": "d7b1a79179959577",
+   "presentation": "normal_repeat",
+   "choice": "B"
+  },
+  {
+   "pair_id": "78fd40f8b40de281",
+   "presentation": "normal_repeat",
+   "choice": "A"
+  },
+  {
+   "pair_id": "1eaa14df21e00cdc",
+   "presentation": "normal_repeat",
+   "choice": "B"
+  },
+  {
+   "pair_id": "f911a8c2546fd496",
+   "presentation": "normal_repeat",
+   "choice": "B"
+  },
+  {
+   "pair_id": "2750eabf100feccf",
+   "presentation": "normal_repeat",
+   "choice": "A"
+  },
+  {
+   "pair_id": "de2853480a71e048",
+   "presentation": "normal_repeat",
+   "choice": "A"
+  },
+  {
+   "pair_id": "a0ab2766baac28a8",
+   "presentation": "normal_repeat",
+   "choice": "B"
+  },
+  {
+   "pair_id": "921280c5471ed8a7",
+   "presentation": "normal_repeat",
+   "choice": "A"
+  },
+  {
+   "pair_id": "0391f07e9bd068cb",
+   "presentation": "normal_repeat",
+   "choice": "A"
+  },
+  {
+   "pair_id": "5577973d7cffc945",
+   "presentation": "normal_repeat",
+   "choice": "B"
+  },
+  {
+   "pair_id": "424aef24294acb3e",
+   "presentation": "normal_repeat",
+   "choice": "A"
+  },
+  {
+   "pair_id": "80908ac55920353e",
+   "presentation": "normal_repeat",
+   "choice": "B"
+  },
+  {
+   "pair_id": "74a9393d8c32e459",
+   "presentation": "normal_repeat",
+   "choice": "B"
+  },
+  {
+   "pair_id": "d860f92a4ae8f2c3",
+   "presentation": "normal_repeat",
+   "choice": "B"
+  },
+  {
+   "pair_id": "e9e8cf7b331dd894",
+   "presentation": "normal_repeat",
+   "choice": "B"
+  },
+  {
+   "pair_id": "cd69f840243ff3d9",
+   "presentation": "normal_repeat",
+   "choice": "B"
+  },
+  {
+   "pair_id": "1e36c757c3de0718",
+   "presentation": "normal_repeat",
+   "choice": "A"
+  },
+  {
+   "pair_id": "979b2c9796abd0cd",
+   "presentation": "normal_repeat",
+   "choice": "B"
+  },
+  {
+   "pair_id": "899afd66775aa2b2",
+   "presentation": "normal_repeat",
+   "choice": "A"
+  },
+  {
+   "pair_id": "34ea662ab44dd8f0",
+   "presentation": "normal_repeat",
+   "choice": "A"
+  },
+  {
+   "pair_id": "60191e4e259a283a",
+   "presentation": "normal_repeat",
+   "choice": "B"
+  },
+  {
+   "pair_id": "04c969f5dd3a3160",
+   "presentation": "normal_repeat",
+   "choice": "A"
+  },
+  {
+   "pair_id": "27b26d293f028110",
+   "presentation": "normal_repeat",
+   "choice": "B"
+  },
+  {
+   "pair_id": "f8e8fb899f3ab500",
+   "presentation": "normal_repeat",
+   "choice": "B"
+  },
+  {
+   "pair_id": "eaff76085cc683ab",
+   "presentation": "normal_repeat",
+   "choice": "B"
+  },
+  {
+   "pair_id": "bda9142b1c7109a2",
+   "presentation": "normal_repeat",
+   "choice": "B"
+  },
+  {
+   "pair_id": "164721ca4f87a748",
+   "presentation": "normal_repeat",
+   "choice": "A"
+  },
+  {
+   "pair_id": "f6b6c3d120a81a4a",
+   "presentation": "normal_repeat",
+   "choice": "B"
+  },
+  {
+   "pair_id": "ef34745b1b931f59",
+   "presentation": "normal_repeat",
+   "choice": "A"
+  },
+  {
+   "pair_id": "778cd9add5d8d898",
+   "presentation": "normal_repeat",
+   "choice": "A"
+  },
+  {
+   "pair_id": "18fdc01a8f75af26",
+   "presentation": "normal_repeat",
+   "choice": "A"
+  },
+  {
+   "pair_id": "634e97dd971d1614",
+   "presentation": "normal_repeat",
+   "choice": "B"
+  },
+  {
+   "pair_id": "2f44ad071edae1cc",
+   "presentation": "normal_repeat",
+   "choice": "B"
+  },
+  {
+   "pair_id": "7721721abad67919",
+   "presentation": "normal_repeat",
+   "choice": "B"
+  },
+  {
+   "pair_id": "57d4ae64ff4f4bbc",
+   "presentation": "normal_repeat",
+   "choice": "A"
+  },
+  {
+   "pair_id": "aa3f61f4421b4e96",
+   "presentation": "normal_repeat",
+   "choice": "B"
+  },
+  {
+   "pair_id": "8d8cd82b28b41b2d",
+   "presentation": "normal_repeat",
+   "choice": "A"
+  },
+  {
+   "pair_id": "31f4f249ef9699c0",
+   "presentation": "normal_repeat",
+   "choice": "B"
+  },
+  {
+   "pair_id": "7f8fe60db569e56f",
+   "presentation": "normal_repeat",
+   "choice": "A"
+  },
+  {
+   "pair_id": "21ded1cfa4c09f17",
+   "presentation": "normal_repeat",
+   "choice": "A"
+  },
+  {
+   "pair_id": "a8e4f8a37031f9ad",
+   "presentation": "normal_repeat",
+   "choice": "A"
+  },
+  {
+   "pair_id": "0ccffae84ca52982",
+   "presentation": "normal_repeat",
+   "choice": "A"
+  },
+  {
+   "pair_id": "3d2610c3db5e20db",
+   "presentation": "normal_repeat",
+   "choice": "A"
+  },
+  {
+   "pair_id": "b657cb5a441e4ed4",
+   "presentation": "normal_repeat",
+   "choice": "B"
+  }
+ ]
+}
